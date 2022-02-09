@@ -14,6 +14,6 @@ jobs:
       with:
         source-files: '/Resources/MealPlanner.ics'
         destination-username: 'bryanbr23'
-        destination-repository: 'https://github.com/bryanbr23/Recipes'
+        destination-repository: 'https://github.com/bryanbr23/B2HomeStaticWebRepo'
         destination-directory: '/'
         commit-email: 'bryan@bredehoeft.com'
