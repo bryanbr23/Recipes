@@ -12,7 +12,7 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
-        source-files: 'Resources/MealPlanner.ics'
+        source-files: '/Resources/MealPlanner.ics'
         destination-username: 'bryanbr23'
         destination-repository: 'https://github.com/bryanbr23/Recipes'
         destination-directory: '/'
