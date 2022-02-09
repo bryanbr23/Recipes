@@ -9,7 +9,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Pushes MealPlanner.ics
-      uses: bryanbr23/Recipes
+      uses: bryanbr23/Recipes@main
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
