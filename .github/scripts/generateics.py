@@ -94,10 +94,10 @@ def main():
             repo.update_file(icsfilepath, emoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
             print(icsfilepath + " updated.")           
             
-     gweb = Github(context_dict["token"])
-     repoweb = gweb.get_repo("bryanbr23/B2HomeStaticWebRepo")
-     contentsweb = ""
-     icsfilepathweb = "MealPlanner.ics"
+    gweb = Github(context_dict["token"])
+    repoweb = gweb.get_repo("bryanbr23/B2HomeStaticWebRepo")
+    contentsweb = ""
+    icsfilepathweb = "MealPlanner.ics"
         
 #         # Post to repoweb
 #         try:
@@ -110,7 +110,7 @@ def main():
 #         else:
 #             repoweb.update_file(icsfilepathweb, emoji + "Updated " + icsfilepathweb, icsfilecontent, contentsweb.sha, branch="main")
 #             print(icsfilepathweb + " updated.")           
-    if not cardsfound:
-        print("No cards were found to generate an ICS file.")
+#     if not cardsfound:
+#         print("No cards were found to generate an ICS file.")
 if __name__ == '__main__':
     main()
