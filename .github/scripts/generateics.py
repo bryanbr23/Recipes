@@ -97,9 +97,11 @@ def main():
             repo.update_file(icsfilepath, emoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
             print(icsfilepath + " updated.")           
             
-        repoweb = g.get_repo("bryanbr23/B2HomeStaticWebRepo")
+        gweb = Github(context_dict["token"])
+        repoweb = gweb.get_repo("bryanbr23/B2HomeStaticWebRepo")
         contentsweb = ""
         icsfilepathweb = "MealPlanner.ics"
+        
         
         # Post to repoweb
         try:
