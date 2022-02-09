@@ -12,8 +12,8 @@ jobs:
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
       with:
-        source-files: '/Resources/MealPlanner.ics'
-        destination-username: 'bryanbr23'
-        destination-repository: 'https://github.com/bryanbr23/B2HomeStaticWebRepo'
-        destination-directory: '/'
-        commit-email: 'bryan@bredehoeft.com'
+        source-files: "/Resources/MealPlanner.ics"
+        destination-username: "bryanbr23"
+        destination-repository: "https://github.com/bryanbr23/B2HomeStaticWebRepo"
+        destination-directory: "/"
+        commit-email: "bryan@bredehoeft.com"
