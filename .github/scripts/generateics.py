@@ -96,8 +96,8 @@ def main():
         else:
             repo.update_file(icsfilepath, emoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
             print(icsfilepath + " updated.")           
-        
-        repoweb = g.repo("bryanbr23/B2HomeStaticWebRepo")
+            
+        repoweb = g.get_repo("bryanbr23/B2HomeStaticWebRepo")
         contentsweb = ""
         icsfilepathweb = "MealPlanner.ics"
         
