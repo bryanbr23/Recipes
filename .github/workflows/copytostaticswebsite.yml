@@ -27,5 +27,5 @@ jobs:
       - uses: bryanbr23/Recipes
         with:
           source_files: Resources/MealPlanner.ics
-          remote_repository: https://bryanbr23/B2HomeStaticWebRepo
+          remote_repository: bryanbr23/B2HomeStaticWebRepo
           access_token: ${{ secrets.ACCESS_TOKEN }}
