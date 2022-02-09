@@ -7,7 +7,6 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-
     - name: Pushes MealPlanner.ics
       uses: bryanbr23/Recipes@main
       env:
