@@ -35,7 +35,7 @@ def main():
                     hasrecipes = True
                     # //TODO consider flag so notes are added to event body and number of notes referenced in note title
                 else:
-                    issueid = (card.content_url).replace("https://api.github.com/repos/" + repo.repository + "/issues/","")  
+                    issueid = (card.content_url).replace("https://api.github.com/repos/" + repo.full_name + "/issues/","")  
                     print(str(issueid))
                     issue = repo.get_issue(int(issueid))
                 
