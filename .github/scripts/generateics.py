@@ -70,7 +70,7 @@ def main():
             icsevents = icsevents  + icsevent
     if icsevent != "" and cardsfound:
         icsfilecontent = (f"BEGIN:VCALENDAR\n"
-        f"PRODID://James Callaghan\n"
+        f"PRODID://Bryan Bredehoeft\n"
         f"VERSION:2.0\n"
         f"X-WR-CALNAME:Meal\n"
         f"{ icsevents}"
