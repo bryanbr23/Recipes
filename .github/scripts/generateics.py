@@ -11,6 +11,7 @@ def main():
     delimcomma = ", "
     delimnewline = "\n"
     icsevent = ""
+    hasrecipes = False
     project = ""
     context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
     g = Github(context_dict["token"])
