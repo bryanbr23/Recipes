@@ -4,7 +4,7 @@ import os
 import json
 import uuid
 columnsToIgnore = ["Meal Planner Queue"]    # Columns to ignore in the project
-project_name = "Test"
+project_name = "Meal Planner"
 def main():
     cardsfound = False    # This is updated if columns are found and removed. Allows for message at end if still false.
     icsevents = ""
