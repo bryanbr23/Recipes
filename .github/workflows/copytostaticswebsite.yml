@@ -1,5 +1,4 @@
-name: Push File
-
+name: Push MealPlanner.ics
 on: push
 
 jobs:
@@ -10,14 +9,14 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Pushes MealPlanner.ics
-      uses: bryanbr23/Recipes@main
+      uses: bryanbr23/Recipes
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
         source_file: 'Resources/MealPlanner.ics'
         destination_repo: 'bryanbr23/B2HomeStaticWebRepo'
         destination_folder: '/'
-        user_email: 'bryan@bredehoeft.com.com'
+        user_email: 'bryan@bredehoeft.com'
         user_name: 'bryanbr23'
         commit_message: 'MealPlanner Updated'
       
