@@ -103,17 +103,17 @@ def main():
         icsfilepathweb = "MealPlanner.ics"
         
         
-        # Post to repoweb
-        try:
-            contentsweb = repoweb.get_contents(icsfilepathweb, ref="main")
-        except:
-            print("ICS file doesn't exist doesn't exist.")
-        if contentsweb == "":
-            repoweb.create_file(icsfilepathweb, emoji + "Created " + icsfilepathweb, icsfilecontent, branch="main")
-            print(icsfilepathweb + " created.")
-        else:
-            repoweb.update_file(icsfilepathweb, emoji + "Updated " + icsfilepathweb, icsfilecontent, contentsweb.sha, branch="main")
-            print(icsfilepathweb + " updated.")           
+#         # Post to repoweb
+#         try:
+#             contentsweb = repoweb.get_contents(icsfilepathweb, ref="main")
+#         except:
+#             print("ICS file doesn't exist doesn't exist.")
+#         if contentsweb == "":
+#             repoweb.create_file(icsfilepathweb, emoji + "Created " + icsfilepathweb, icsfilecontent, branch="main")
+#             print(icsfilepathweb + " created.")
+#         else:
+#             repoweb.update_file(icsfilepathweb, emoji + "Updated " + icsfilepathweb, icsfilecontent, contentsweb.sha, branch="main")
+#             print(icsfilepathweb + " updated.")           
     if not cardsfound:
         print("No cards were found to generate an ICS file.")
 if __name__ == '__main__':
