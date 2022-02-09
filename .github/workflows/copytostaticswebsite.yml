@@ -12,10 +12,8 @@ jobs:
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
-        source_file: 'Resources/MealPlanner.ics'
-        destination_repo: 'bryanbr23/B2HomeStaticWebRepo'
-        destination_folder: '/'
-        user_email: 'bryan@bredehoeft.com'
-        user_name: 'bryanbr23'
-        commit_message: 'MealPlanner Updated'
-      
+        source-files: 'Resources/MealPlanner.ics'
+        destination-username: 'bryanbr23'
+        destination-repository: 'https://github.com/bryanbr23/Recipes'
+        destination-directory: '/'
+        commit-email: 'bryan@bredehoeft.com'
