@@ -82,9 +82,6 @@ def main():
         emoji = "🧑🏼‍🍳 "
         contents = ""
         
-        
-         
-        
         # Post to this repo
         try:
             contents = repo.get_contents(icsfilepath, ref="main")
@@ -101,7 +98,6 @@ def main():
         repoweb = gweb.get_repo("bryanbr23/B2HomeStaticWebRepo")
         contentsweb = ""
         icsfilepathweb = "MealPlanner.ics"
-        
         
 #         # Post to repoweb
 #         try:
