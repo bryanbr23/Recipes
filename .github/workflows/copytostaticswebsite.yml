@@ -26,7 +26,7 @@ jobs:
     - name: Pushes MealPlanner.ics
       uses: bryanbr23/Recipes@main
       env:
-        CONTEXT_GITHUB: ${{ toJson(github) }}
+        API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
         source-files: "/Resources/MealPlanner.ics"
         destination-username: "bryanbr23"
