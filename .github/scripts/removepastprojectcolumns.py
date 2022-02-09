@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import os
 import json
 columnsToIgnore = ["Meal Planner Queue"]    # Columns to ignore in the project
-project_name = "Test"
+project_name = "Meal Planner"
 def main():
     columnsFound = False    # This is updated if columns are found and removed. Allows for message at end if still false.
     context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
