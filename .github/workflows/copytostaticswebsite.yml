@@ -18,18 +18,32 @@ jobs:
         run: echo '${{ toJSON(strategy) }}'
       - name: Dump matrix context
         run: echo '${{ toJSON(matrix) }}'
+        
   copy-file:
+  
     runs-on: ubuntu-latest
+    env:
+      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
+      
     steps:
+    
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Pushes MealPlanner.ics
-      uses: "./"
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.foractions }}
+      
+#     - name: Pushes MealPlanner.ics
+#       uses: "./"
+#       env:
+#         API_TOKEN_GITHUB: ${{ secrets.foractions }}
+#       with:
+#         source-file: "/Resources/MealPlanner.ics"
+#         destination-username: "bryanbr23"
+#         destination-repository: "bryanbr23/B2HomeStaticWebRepo"
+#         destination-directory: "./"
+#         commit-email: "bryan@bredehoeft.com"
+
+    - name: Push ICS to webapp repo
+      uses: GuillaumeFalourd/copy-push-files@v1
       with:
-        source-file: "/Resources/MealPlanner.ics"
-        destination-username: "bryanbr23"
-        destination-repository: "bryanbr23/B2HomeStaticWebRepo"
-        destination-directory: "./"
-        commit-email: "bryan@bredehoeft.com"
+        source_files: ${{ env.ICS_PATH }} 
+        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
+        access_token: ${{ secrets.ACCESS_TOKEN }}
