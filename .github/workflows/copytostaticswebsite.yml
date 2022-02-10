@@ -24,12 +24,12 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     - name: Pushes MealPlanner.ics
-      uses: "./Resources/"
+      uses: "./"
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
-        source-file: "./Resources/MealPlanner.ics"
+        source-file: "/Resources/MealPlanner.ics"
         destination-username: "bryanbr23"
         destination-repository: "bryanbr23/B2HomeStaticWebRepo"
-        destination-directory: "/"
+        destination-directory: "./"
         commit-email: "bryan@bredehoeft.com"
