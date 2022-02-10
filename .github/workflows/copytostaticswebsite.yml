@@ -47,3 +47,4 @@ jobs:
         source_files: ${{ env.ICS_PATH }} 
         remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
         access_token: ${{ secrets.ACCESS_TOKEN }}
+        target_branch: 'main'
