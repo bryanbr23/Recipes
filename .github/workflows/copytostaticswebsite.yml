@@ -23,7 +23,7 @@ jobs:
   
     runs-on: ubuntu-latest
     env:
-      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
+      ICS_PATH: ${{ github.workspace }}/Resources/MealPlanner.ics
       
     steps:
     
