@@ -21,14 +21,14 @@ jobs:
   copy-file:
     runs-on: ubuntu-latest
     steps:
-#     - name: Checkout
-#       uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@v2
     - name: Pushes MealPlanner.ics
-      uses: ./
+      uses: "./Resources/"
       env:
         API_TOKEN_GITHUB: ${{ secrets.foractions }}
       with:
-        source-file: "Resources/MealPlanner.ics"
+        source-file: "./Resources/MealPlanner.ics"
         destination-username: "bryanbr23"
         destination-repository: "bryanbr23/B2HomeStaticWebRepo"
         destination-directory: "/"
