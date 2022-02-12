@@ -3,8 +3,8 @@ PRODID://Bryan Bredehoeft
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:4412d62a-d693-4a10-ba85-3b87bd407312
-DTSTAMP:20220212T175645
+UID:48e3641f-8950-4b12-a1ec-9f04cb6c7297
+DTSTAMP:20220212T175658
 DTSTART:20220213T184500
 DTEND:20220213T203000
 SUMMARY:Basic Burgers #131 for dinner
@@ -14,8 +14,8 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:129618f8-e119-4639-b251-7312036c744c
-DTSTAMP:20220212T175646
+UID:7a15f4f9-7da3-4889-a081-14a4ffca8790
+DTSTAMP:20220212T175659
 DTSTART:20220214T184500
 DTEND:20220214T203000
 SUMMARY:Minestrone Soup #150 for dinner
@@ -25,48 +25,59 @@ LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:4cdfb841-4e3d-4707-9cf8-7f00aab0abd1
-DTSTAMP:20220212T175646
+UID:b7261cbd-48dd-4129-b8d3-99820833ed33
+DTSTAMP:20220212T175659
 DTSTART:20220215T184500
 DTEND:20220215T203000
-SUMMARY:Mexican Shredded Beef (and Tacos) #88 and Lemon Garlic Parmesan Shrimp Pasta #101 for dinner
+SUMMARY:Mexican Shredded Beef (and Tacos) #88 for dinner
 DESCRIPTION:Mexican Shredded Beef (and Tacos) #88 - https://github.com/bryanbr23/Recipes/issues/88
-Lemon Garlic Parmesan Shrimp Pasta #101 - https://github.com/bryanbr23/Recipes/issues/101
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:9b83d605-4851-4145-a082-6b25726753de
-DTSTAMP:20220212T175647
+UID:7dabdfc4-1721-41ca-b54b-f56b928c5b30
+DTSTAMP:20220212T175659
 DTSTART:20220216T184500
 DTEND:20220216T203000
-SUMMARY:Spaghetti Carbonara #135, Curry Lentil Soup - Instant Pot #159 and Shaking Beef – Vietnamese #111 for dinner
+SUMMARY:Spaghetti Carbonara #135 for dinner
 DESCRIPTION:Spaghetti Carbonara #135 - https://github.com/bryanbr23/Recipes/issues/135
-Curry Lentil Soup - Instant Pot #159 - https://github.com/bryanbr23/Recipes/issues/159
-Shaking Beef – Vietnamese #111 - https://github.com/bryanbr23/Recipes/issues/111
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:43971885-92e8-46a5-88da-d11faba91414
-DTSTAMP:20220212T175647
+UID:8f512192-e253-4755-9ecf-8a2f544468b1
+DTSTAMP:20220212T175659
 DTSTART:20220217T184500
 DTEND:20220217T203000
-SUMMARY:Chicken Metaxa #40 for dinner
+SUMMARY:Chicken Metaxa #40, Shaking Beef – Vietnamese #111 and Curry Lentil Soup - Instant Pot #159 for dinner
 DESCRIPTION:Chicken Metaxa #40 - https://github.com/bryanbr23/Recipes/issues/40
+Shaking Beef – Vietnamese #111 - https://github.com/bryanbr23/Recipes/issues/111
+Curry Lentil Soup - Instant Pot #159 - https://github.com/bryanbr23/Recipes/issues/159
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:59963392-35d4-4993-9869-b33ab3d0cf33
-DTSTAMP:20220212T175647
+UID:caced587-f4c4-4766-a8c5-83ae7ce516bd
+DTSTAMP:20220212T175700
 DTSTART:20220218T184500
 DTEND:20220218T203000
 SUMMARY:Pork Carnitas - Mexican Slow-Cooker #143 for dinner
 DESCRIPTION:Pork Carnitas - Mexican Slow-Cooker #143 - https://github.com/bryanbr23/Recipes/issues/143
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca445f90-3df6-466b-8329-f6ac384fd17d
+DTSTAMP:20220212T175700
+DTSTART:20220219T184500
+DTEND:20220219T203000
+SUMMARY:Lemon Garlic Parmesan Shrimp Pasta #101 and Shaking Beef – Vietnamese #111 for dinner
+DESCRIPTION:Lemon Garlic Parmesan Shrimp Pasta #101 - https://github.com/bryanbr23/Recipes/issues/101
+Shaking Beef – Vietnamese #111 - https://github.com/bryanbr23/Recipes/issues/111
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
