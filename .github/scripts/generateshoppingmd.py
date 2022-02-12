@@ -12,20 +12,13 @@ from pprint import pprint
 # Initialize the Congig Parser.
 config = configparser.ConfigParser()
 
-#Get the absolute path of ini file by doing os.getcwd() and joining it to config.ini.
-ini_path = os.path.join(os.getcwd(),'MealPlanner\ShoppingList\config.ini')
-config.read(ini_path)
-access_token = config.get('github-credentials', 'access_token')
-repo_name = config.get('github-repo','repo_name')
-ingredient_search_string = config.get('github-repo','ingredient_search_string')
-method_search_string = config.get('github-repo','method_search_string')
-ingredient_padding = config.get('github-repo','ingredient_padding')
+ingredient_search_string = "# Ingredients"
+method_search_string = "# Method"
+ingredient_padding = "13"
 
-
-# authenticate to github, user, repo
-g = Github(access_token)
-user = g.get_user()
-repo = g.get_repo(repo_name)
+context_dict = json.loads(os.getenv("CONTEXT_GITHUB"))
+g = Github(context_dict["token"])
+repo = context_dict["repository"]
 
 # List for ingredients that are often held and don't require buying.
 # //TODO consider moving this to config.ini
@@ -169,7 +162,6 @@ for column in jsonAllProjectColumns:
         #plannedRecipesList.append(columnName + " - " + "; ".join(list(map(str, columnRecipesList))))           # This uses an hyphen to seperate the date and the recipes.
         plannedRecipesList.append(columnName + "\n   " + "; ".join(list(map(str, columnRecipesList))))          # This uses a new line after the date and the recipes on this new line.
 
-
 outputContent = (f"# Shopping List\n\nThis file has been generated to improve the sending and readability for mobile.\n\n```\nShopping List\n\n"
 f"Recipes:\n\n")
 print("\nSHOPPING LIST")
@@ -196,7 +188,6 @@ for key, value in sorted(ingredientsDict.items()):
     if len(value) > 0:
         measurement = " (" + value.lstrip(" ") + ")"
     
-    #print(" - " + key.capitalize() + measurement) # This just lists the ingredient and the measure.
     print(" - " + key.capitalize() + measurement + "") # This outputs the ingredient, measure and a link to the grocy supplier we use. This is formatted with a new line to make it more readable as a WhatsApp message.
     content = (f"" + key.capitalize() + measurement + "\n + ")
     outputContent = outputContent + content
