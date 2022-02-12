@@ -40,13 +40,6 @@ def getIngredientByRecipeID(issue):
     endlocation = issueBody.find(method_search_string)   # Note: This might not always be in the issue body. Find next head after ingredients
     ingredientBlock = issueBody[startlocation:endlocation]
 
-    # Find the list of ingredients after "# Ingredients" or "## Ingredients". Note comments above. Method isn't always available.
-    # String search for # Ingredients in the myIssue.body
-    # Find where # or ##
-    # Recurse through each line and treat as ingredient
-    # Split the measure (1 tbsp ingredient; 1 400g can ingredient; 50g ingredient) from the ingredient and subsequent application.
-    # Add to dictionary ensure the ingredients remain unique but the measure reflects the measure from each recipe.
-
     for line in ingredientBlock.splitlines():
 
         ingredientMeasure = ""
@@ -111,19 +104,6 @@ def getIngredientByRecipeID(issue):
                     ingredientsDict[ingredientItem.lower().lstrip(" ")] = ingredientMeasure                      # No issue added
 
     return
-
-from datetime import datetime, timedelta
-import requests
-import json
-
-# //TODO move this to config.ini
-
-apiColumnsUrl =config.get('github-credentials','apiColumnsUrl')
-apiHeaders = {
-    'Accept': 'application/vnd.github.inertia-preview+json',
-    'Authorization': 'Bearer <snip>',
-    'Content-Type': 'text/plain'
-}
 
 recipesList = []            # This list is used to store each of the recipe issues.
 plannedRecipesList = []     # List to store recipes found in each column.
@@ -209,6 +189,6 @@ if len(ingredientsHeld) > 0:
     outputContent = outputContent + (f"\nIngredients Held:\n\n" + ingredientsHeldText + "\n```")
 
 # Write content out to file.
-outputFile = open('MealPlanner\ShoppingList.md', 'w')
+outputFile = open('Resources\ShoppingList.md', 'w')
 outputFile.write(outputContent)
 outputFile.close()
