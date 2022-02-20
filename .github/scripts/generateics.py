@@ -78,7 +78,7 @@ def main():
 #         icsFile = open('MealPlanner.ics', 'w')
 #         icsFile.write(icsContent)
 #         icsFile.close()
-        icsfilepath = "Resources/MealPlanner.ics"
+        icsfilepath = "resources/MealPlanner.ics"
         emoji = "🧑🏼‍🍳 "
         contents = ""
         
@@ -94,23 +94,5 @@ def main():
             repo.update_file(icsfilepath, emoji + "Updated " + icsfilepath, icsfilecontent, contents.sha, branch="main")
             print(icsfilepath + " updated.")           
             
-#     gweb = Github(context_dict["token"])
-#     repoweb = gweb.get_repo("bryanbr23/B2HomeStaticWebRepo")
-#     contentsweb = ""
-#     icsfilepathweb = "MealPlanner.ics"
-        
-#         # Post to repoweb
-#         try:
-#             contentsweb = repoweb.get_contents(icsfilepathweb, ref="main")
-#         except:
-#             print("ICS file doesn't exist doesn't exist.")
-#         if contentsweb == "":
-#             repoweb.create_file(icsfilepathweb, emoji + "Created " + icsfilepathweb, icsfilecontent, branch="main")
-#             print(icsfilepathweb + " created.")
-#         else:
-#             repoweb.update_file(icsfilepathweb, emoji + "Updated " + icsfilepathweb, icsfilecontent, contentsweb.sha, branch="main")
-#             print(icsfilepathweb + " updated.")           
-#     if not cardsfound:
-#         print("No cards were found to generate an ICS file.")
 if __name__ == '__main__':
     main()
