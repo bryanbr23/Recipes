@@ -10,6 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sun 20-Feb 2022|[Curry Lentil Soup - Instant Pot #159](https://github.com/bryanbr23/Recipes/issues/159)|
 |Mon 21-Feb 2022|[Shaking Beef – Vietnamese #111](https://github.com/bryanbr23/Recipes/issues/111)|
+|Tue 22-Feb 2022|[Spaghetti Bolognese #1](https://github.com/bryanbr23/Recipes/issues/1)|
+|Wed 23-Feb 2022|[Gordon Ramsey Tomato, Anchovie Noodles #92](https://github.com/bryanbr23/Recipes/issues/92)|
 
 ## 🛒 Shopping List
 
