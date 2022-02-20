@@ -1,4 +1,3 @@
-Generate shopping.yml
 name: Generate shopping list
 
 # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
