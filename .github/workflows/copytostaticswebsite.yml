@@ -1,4 +1,4 @@
-name: Push MealPlanner.ics
+name: Push MealPlanner to Static Website
 on: push
 
 jobs:
