@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 25-Apr 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
 |Tue 26-Apr 2022|[Fettuccine With Sausage and Kale #154](https://github.com/bryanbr23/Recipes/issues/154)|
 |Wed 27-Apr 2022|[Garlic Parmesan Mac and Cheese #100](https://github.com/bryanbr23/Recipes/issues/100)|
+|Thu 28-Apr 2022|[Chicken Souvlaki with Tzatziki Sauce #45](https://github.com/bryanbr23/Recipes/issues/45)|
 
 ## 🛒 Shopping List
 
@@ -71,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Flour, Garlic cloves, Seasoning and Water.
 
 
-_This shopping list was generated at 22-04-2022 12:08:46._
+_This shopping list was generated at 22-04-2022 12:09:31._
