@@ -9,3 +9,4 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 02-May 2022|[Chicken Tacos #2](https://github.com/bryanbr23/Recipes/issues/2)|
+|Tue 03-May 2022|[Spaghetti Carbonara #30](https://github.com/bryanbr23/Recipes/issues/30)|
