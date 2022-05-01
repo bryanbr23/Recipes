@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 28-Apr 2022 - Sun 08-May 2022
+Sun 01-May 2022 - Wed 11-May 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,4 +8,4 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 28-Apr 2022|[Chicken Souvlaki with Tzatziki Sauce #45](https://github.com/bryanbr23/Recipes/issues/45)|
+|Mon 02-May 2022|[Chicken Tacos #2](https://github.com/bryanbr23/Recipes/issues/2)|
