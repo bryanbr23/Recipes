@@ -3,12 +3,12 @@ PRODID://Bryan Bredehoeft
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:7afd58aa-6bf8-4378-8660-67e06819de43
-DTSTAMP:20220429T020539
-DTSTART:20220428T184500
-DTEND:20220428T203000
-SUMMARY:Chicken Souvlaki with Tzatziki Sauce #45 for dinner
-DESCRIPTION:Chicken Souvlaki with Tzatziki Sauce #45 - https://github.com/bryanbr23/Recipes/issues/45
+UID:b6f2afc1-b83f-4eab-b588-e43795ad7033
+DTSTAMP:20220501T132115
+DTSTART:20220502T184500
+DTEND:20220502T203000
+SUMMARY:Chicken Tacos #2 for dinner
+DESCRIPTION:Chicken Tacos #2 - https://github.com/bryanbr23/Recipes/issues/2
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
