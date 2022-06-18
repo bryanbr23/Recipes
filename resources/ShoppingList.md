@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 18-Jun 2022|[Shrimp Scampi Babish #132](https://github.com/bryanbr23/Recipes/issues/132)|
 |Sun 19-Jun 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
+|Mon 20-Jun 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
 
 ## 🛒 Shopping List
 
@@ -49,4 +50,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Bay leaf, Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 18-06-2022 14:27:47._
+_This shopping list was generated at 18-06-2022 14:28:30._
