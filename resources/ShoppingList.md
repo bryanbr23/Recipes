@@ -12,6 +12,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 19-Jun 2022|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
 ||[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 |Mon 20-Jun 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
+|Tue 21-Jun 2022|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
+|Wed 22-Jun 2022|[Chicken Souvlaki with Tzatziki Sauce #45](https://github.com/bryanbr23/Recipes/issues/45)|
 
 ## 🛒 Shopping List
 
@@ -55,4 +57,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Bay leaf, Garlic cloves and Olive oil.
 
 
-_This shopping list was generated at 18-06-2022 14:31:52._
+_This shopping list was generated at 18-06-2022 14:32:46._
