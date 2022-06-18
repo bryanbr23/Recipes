@@ -38,4 +38,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Bay leaf and Garlic cloves.
 
 
-_This shopping list was generated at 18-06-2022 14:25:29._
+_This shopping list was generated at 18-06-2022 14:26:23._
