@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Sun 19-Jun 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
-|Mon 20-Jun 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
+|Sun 19-Jun 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
+|Mon 20-Jun 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 |Tue 21-Jun 2022|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
 |Wed 22-Jun 2022|[Chicken Souvlaki with Tzatziki Sauce #45](https://github.com/bryanbr23/Recipes/issues/45)|
 |Thu 23-Jun 2022|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
@@ -48,4 +48,4 @@ The following items have not been added to the shopping list as they are like in
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 19-06-2022 16:03:29._
+_This shopping list was generated at 19-06-2022 16:13:50._
