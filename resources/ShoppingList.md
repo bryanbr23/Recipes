@@ -12,6 +12,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Sat 02-Jul 2022|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
 |Sun 03-Jul 2022|[Chicken Teriyaki #138](https://github.com/bryanbr23/Recipes/issues/138)|
 |Mon 04-Jul 2022|[Summer Couscous Salad #136](https://github.com/bryanbr23/Recipes/issues/136)|
+|Tue 05-Jul 2022|[Sicilian Noodles w/Sardines  #56](https://github.com/bryanbr23/Recipes/issues/56)|
+|Thu 07-Jul 2022|[Pasta Mediterranen #27](https://github.com/bryanbr23/Recipes/issues/27)|
 
 ## 🛒 Shopping List
 
@@ -39,4 +41,4 @@ The following items have not been added to the shopping list as they are like in
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 01-07-2022 16:46:24._
+_This shopping list was generated at 01-07-2022 16:47:24._
