@@ -11,6 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 11-Jul 2022|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
 |Tue 12-Jul 2022|[Chicken Souvlaki with Tzatziki Sauce #45](https://github.com/bryanbr23/Recipes/issues/45)|
 |Wed 13-Jul 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
+|Thu 14-Jul 2022|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
+|Fri 15-Jul 2022|[Mexican Chicken and Zucchini  #41](https://github.com/bryanbr23/Recipes/issues/41)|
 
 ## 🛒 Shopping List
 
@@ -19,17 +21,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[/2 teaspoon dried oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults//2%20teaspoon%20dried%20oregano)|1|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3|
 |[Cooking spray](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cooking%20spray)||
-|[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1/2 cup|
+|[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)||
 |[Cups broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20broccoli%20florets)|4|
 |[Cups dry lentils](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20dry%20lentils)|2|
 |[Cups low-sodium chicken broth (or vegetable broth)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20low-sodium%20chicken%20broth%20(or%20vegetable%20broth))|4|
+|[Feta cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta%20cheese)||
 |[Hot cooked rice for serving](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20cooked%20rice%20for%20serving)||
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Medium zucchini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20zucchini)|1|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|⅓ cup|
+|[Parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parsley)||
 |[Plain low-fat yogurt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plain%20low-fat%20yogurt)|1/2 cup|
 |[Pound flank](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20flank)|1|
 |[Pound skinless](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20skinless)|1/2|
+|[Quinoa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Quinoa)||
 |[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)|1/2 cup|
 |[Scallions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Scallions)||
 |[Small onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20onions)|3|
@@ -60,4 +65,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves and Water.
 
 
-_This shopping list was generated at 11-07-2022 10:02:24._
+_This shopping list was generated at 11-07-2022 10:02:47._
