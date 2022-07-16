@@ -12,6 +12,9 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 17-Jul 2022|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
 |Mon 18-Jul 2022|[Mexican Chicken and Zucchini  #41](https://github.com/bryanbr23/Recipes/issues/41)|
 |Tue 19-Jul 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
+|Wed 20-Jul 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
+|Thu 21-Jul 2022|[Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81](https://github.com/bryanbr23/Recipes/issues/81)|
+|Fri 22-Jul 2022|[Spaghetti Carbonara #135](https://github.com/bryanbr23/Recipes/issues/135)|
 
 ## 🛒 Shopping List
 
@@ -27,13 +30,17 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cups feta cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20feta%20cheese)|1-2|
 |[Cups quinoa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20quinoa)|2|
 |[Cups vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20vegetable%20broth)|2|
+|[Eggs (1 eggs complete](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20(1%20eggs%20complete)|3|
 |[Fresh parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20parsley)||
+|[Grated parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan%20cheese)|50g-100g|
 |[Hot cooked rice for serving](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20cooked%20rice%20for%20serving)||
 |[Juice of 2 lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20of%202%20lemons)||
 |[King prawns](https://www.sainsburys.co.uk/gol-ui/SearchResults/King%20prawns)||
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
+|[Medium onions chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions%20chopped)|1|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|½|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|⅓ cup|
+|[Pancetta 50g per person](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pancetta%2050g%20per%20person)||
 |[Pinch of fennel seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20of%20fennel%20seeds)||
 |[Pound flank](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20flank)|1|
 |[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
@@ -41,6 +48,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Scallions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Scallions)||
 |[Seasoning to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Seasoning%20to%20taste)||
 |[Small onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20onions)|3|
+|[Small ½ glass olive oil basically about 2-3 tablespoons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20½%20glass%20olive%20oil%20basically%20about%202-3%20tablespoons)|1|
 |[Spaghetti](https://www.sainsburys.co.uk/gol-ui/SearchResults/Spaghetti)||
 |[Splash of white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Splash%20of%20white%20wine)||
 |[Tablespoon fresh grated ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20fresh%20grated%20ginger)|1|
@@ -64,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves, Olive oil, Tomato puree and Water.
 
 
-_This shopping list was generated at 16-07-2022 07:32:00._
+_This shopping list was generated at 16-07-2022 07:32:56._
