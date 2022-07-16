@@ -3,23 +3,24 @@ PRODID://Bryan Bredehoeft
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:346f5a6d-948f-4186-9968-592725fbc789
-DTSTAMP:20220716T021008
-DTSTART:20220715T184500
-DTEND:20220715T203000
-SUMMARY:Quinoa Salad #177 for dinner
-DESCRIPTION:Quinoa Salad #177 - https://github.com/bryanbr23/Recipes/issues/177
+UID:d7288814-994c-4096-8820-d02c57cde7ee
+DTSTAMP:20220716T072707
+DTSTART:20220716T184500
+DTEND:20220716T203000
+SUMMARY:Mexican Chicken and Zucchini  #41 and Shrimp and Pasta #179 for dinner
+DESCRIPTION:Mexican Chicken and Zucchini  #41 - https://github.com/bryanbr23/Recipes/issues/41
+Shrimp and Pasta #179 - https://github.com/bryanbr23/Recipes/issues/179
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:41adaf52-b83c-42f2-b692-30cee6ab703e
-DTSTAMP:20220716T021008
-DTSTART:20220716T184500
-DTEND:20220716T203000
-SUMMARY:Mexican Chicken and Zucchini  #41 for dinner
-DESCRIPTION:Mexican Chicken and Zucchini  #41 - https://github.com/bryanbr23/Recipes/issues/41
+UID:c32e314a-5abc-4d71-8dbb-1eb9bcaa0026
+DTSTAMP:20220716T072707
+DTSTART:20220717T184500
+DTEND:20220717T203000
+SUMMARY:Quinoa Salad #177 for dinner
+DESCRIPTION:Quinoa Salad #177 - https://github.com/bryanbr23/Recipes/issues/177
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
