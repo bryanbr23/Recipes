@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Sat 16-Jul 2022|[Shrimp and Pasta #179](https://github.com/bryanbr23/Recipes/issues/179)|
 |Sun 17-Jul 2022|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
+|Mon 18-Jul 2022|[Mexican Chicken and Zucchini  #41](https://github.com/bryanbr23/Recipes/issues/41)|
 
 ## 🛒 Shopping List
 
@@ -44,4 +45,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves, Olive oil and Tomato puree.
 
 
-_This shopping list was generated at 16-07-2022 07:27:26._
+_This shopping list was generated at 16-07-2022 07:31:37._
