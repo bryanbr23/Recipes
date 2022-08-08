@@ -10,6 +10,8 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Mon 08-Aug 2022|[Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81](https://github.com/bryanbr23/Recipes/issues/81)|
 |Tue 09-Aug 2022|[Spaghetti Carbonara #135](https://github.com/bryanbr23/Recipes/issues/135)|
+|Wed 10-Aug 2022|[Bratwurst and Sauer Kraut #180](https://github.com/bryanbr23/Recipes/issues/180)|
+|Thu 11-Aug 2022|[Vegetarian Chili #105](https://github.com/bryanbr23/Recipes/issues/105)|
 
 ## 🛒 Shopping List
 
