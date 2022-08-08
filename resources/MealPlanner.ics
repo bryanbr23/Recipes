@@ -3,12 +3,23 @@ PRODID://Bryan Bredehoeft
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:0c62fb2f-cbfd-4594-937b-f8cfa75a31d7
-DTSTAMP:20220808T095340
+UID:4d1b92b6-08d2-42a7-938f-eb134ba865bd
+DTSTAMP:20220808T095428
 DTSTART:20220808T184500
 DTEND:20220808T203000
 SUMMARY:Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81 for dinner
 DESCRIPTION:Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81 - https://github.com/bryanbr23/Recipes/issues/81
+SEQUENCE:0
+LOCATION:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de1b88b2-54c7-4b9b-bd47-310dfaeaea4e
+DTSTAMP:20220808T095429
+DTSTART:20220809T184500
+DTEND:20220809T203000
+SUMMARY:Spaghetti Carbonara #135 for dinner
+DESCRIPTION:Spaghetti Carbonara #135 - https://github.com/bryanbr23/Recipes/issues/135
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
