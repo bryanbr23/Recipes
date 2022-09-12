@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 14-Sep 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
 |Thu 15-Sep 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 |Fri 16-Sep 2022|[Asian Broiled Salmon #35](https://github.com/bryanbr23/Recipes/issues/35)|
+|Sat 17-Sep 2022|[Pasta Mediterranen #27](https://github.com/bryanbr23/Recipes/issues/27)|
 
 ## 🛒 Shopping List
 
@@ -54,4 +55,4 @@ The following items have not been added to the shopping list as they are like in
 Olive oil and Water.
 
 
-_This shopping list was generated at 12-09-2022 08:15:00._
+_This shopping list was generated at 12-09-2022 08:15:27._
