@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Fri 23-Sep 2022|[Rigatoni Zingara  #29](https://github.com/bryanbr23/Recipes/issues/29)|
 |Sun 25-Sep 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 |Mon 26-Sep 2022|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
 |Tue 27-Sep 2022|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
@@ -59,4 +60,4 @@ The following items have not been added to the shopping list as they are like in
 Cumin, Olive oil and Seasoning.
 
 
-_This shopping list was generated at 23-09-2022 07:01:06._
+_This shopping list was generated at 23-09-2022 07:01:38._
