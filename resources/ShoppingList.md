@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 15-Sep 2022 - Sun 25-Sep 2022
+Fri 23-Sep 2022 - Mon 03-Oct 2022
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,9 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 15-Sep 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
-|Fri 16-Sep 2022|[Asian Broiled Salmon #35](https://github.com/bryanbr23/Recipes/issues/35)|
-|Sat 17-Sep 2022|[Pasta Mediterranen #27](https://github.com/bryanbr23/Recipes/issues/27)|
+|Sun 25-Sep 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 
 ## 🛒 Shopping List
 
@@ -34,4 +32,4 @@ The following items have not been added to the shopping list as they are like in
 O, l, i, v, e,  , o, i and l.
 
 
-_This shopping list was generated at 15-09-2022 18:20:05._
+_This shopping list was generated at 23-09-2022 06:59:55._
