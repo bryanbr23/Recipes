@@ -9,24 +9,50 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Tue 04-Oct 2022|[Rigatoni Bolognese #181](https://github.com/bryanbr23/Recipes/issues/181)|
+|Wed 05-Oct 2022|[Shrimp Scampi Babish #132](https://github.com/bryanbr23/Recipes/issues/132)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[+ 1 tbsp kosher salt (+ more to taste)](https://www.sainsburys.co.uk/gol-ui/SearchResults/+%201%20tbsp%20kosher%20salt%20(+%20more%20to%20taste))|1 tsp|
 |[/2 pounds ground beef](https://www.sainsburys.co.uk/gol-ui/SearchResults//2%20pounds%20ground%20beef)|1|
+|[1 tbsp fresh marjoram](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20fresh%20marjoram)|1 Tbsp fresh marjoram, chopped tbsp|
 |[1/4 cup extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/1/4%20cup%20extra-virgin%20olive%20oil)|1/4 Cup extra-virgin olive oil cup|
 |[28oz can crushed tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/28oz%20can%20crushed%20tomatoes)|1|
+|[3 tbsp olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20olive%20oil)|3 Tbsp olive oil tbsp|
+|[3 tbsp parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20parsley)|3 Tbsp parsley, chopped tbsp|
+|[8 tbsp butter (1 stick)](https://www.sainsburys.co.uk/gol-ui/SearchResults/8%20tbsp%20butter%20(1%20stick))|8 Tbsp butter (1 stick), divided tbsp|
+|[Black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppercorns)|½ tsp|
 |[C beef broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20beef%20broth)|2|
 |[C dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20dry%20white%20wine)|1/4|
 |[C heavy cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20heavy%20cream)|1/2|
 |[C red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20red%20wine)|3/4|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3|
+|[Crushed red peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers%20flakes)|½ tsp|
+|[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|1 cup|
+|[Fresh fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20fettuccine%20pasta)|½ lb|
+|[Fresh shrimp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20shrimp)|1 lb|
+|[Fresh tarragon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20tarragon)|2 tsp|
+|[Juice  of 2 lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20%20of%202%20lemons)||
 |[Large carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20carrots)|1|
+|[Large shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20shallots)|1|
 |[Large spanish onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20spanish%20onions)|1|
 |[Package boursin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Package%20boursin)|1|
+|[Panko bread crumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20bread%20crumbs)|½ cup|
 |[Pound rigatonia](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20rigatonia)|1|
 |[Ribs celery](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ribs%20celery)|2|
 |[Teaspoon nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20nutmeg)|1/4|
 |[Teaspoons italian seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20italian%20seasoning)|2|
 |[Teaspoons seasoned salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20seasoned%20salt)|2|
+|[To taste freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20taste%20freshly%20ground%20black%20peppers)||
+|[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
+
+## 🏪 Pantry Ingredients
+
+The following items have not been added to the shopping list as they are like in the pantry already.
+
+Baking soda, Bay leaf and Garlic cloves.
+
+
+_This shopping list was generated at 01-10-2022 20:51:20._
