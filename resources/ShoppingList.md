@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Tue 04-Oct 2022|[Rigatoni Bolognese #181](https://github.com/bryanbr23/Recipes/issues/181)|
 |Wed 05-Oct 2022|[Shrimp Scampi Babish #132](https://github.com/bryanbr23/Recipes/issues/132)|
+|Thu 06-Oct 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
 
 ## 🛒 Shopping List
 
@@ -28,21 +29,39 @@ This shopping list has been automatically generated with the ingredients from th
 |[C dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20dry%20white%20wine)|1/4|
 |[C heavy cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20heavy%20cream)|1/2|
 |[C red wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20red%20wine)|3/4|
-|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3 + 3|
 |[Crushed red peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers%20flakes)|½ tsp|
+|[Cups broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20broccoli%20florets)|4|
 |[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|1 cup|
 |[Fresh fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20fettuccine%20pasta)|½ lb|
 |[Fresh shrimp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20shrimp)|1 lb|
 |[Fresh tarragon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20tarragon)|2 tsp|
+|[Hot cooked rice for serving](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20cooked%20rice%20for%20serving)||
 |[Juice  of 2 lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20%20of%202%20lemons)||
 |[Large carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20carrots)|1|
 |[Large shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20shallots)|1|
 |[Large spanish onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20spanish%20onions)|1|
+|[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
+|[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|⅓ cup|
 |[Package boursin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Package%20boursin)|1|
 |[Panko bread crumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20bread%20crumbs)|½ cup|
+|[Pound flank](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20flank)|1|
 |[Pound rigatonia](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20rigatonia)|1|
 |[Ribs celery](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ribs%20celery)|2|
+|[Scallions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Scallions)||
+|[Small onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20onions)|3|
+|[Tablespoon fresh grated ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20fresh%20grated%20ginger)|1|
+|[Tablespoons light brown sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20light%20brown%20sugar)|2|
+|[Tablespoons soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20soy%20sauce)|3 + 3|
+|[Tablespoons toasted sesame seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20toasted%20sesame%20seeds)|1|
+|[Tablespoons vegetable oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20vegetable%20oil)|3|
+|[Teaspoon baking soda](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20baking%20soda)|¼|
+|[Teaspoon cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20cornstarch)|1|
+|[Teaspoon crushed red peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20crushed%20red%20peppers%20flakes)|¼|
 |[Teaspoon nutmeg](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20nutmeg)|1/4|
+|[Teaspoon sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20sesame%20oil)|1|
+|[Teaspoon vegetable oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20vegetable%20oil)|1|
+|[Teaspoons cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20cornstarch)|2|
 |[Teaspoons italian seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20italian%20seasoning)|2|
 |[Teaspoons seasoned salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20seasoned%20salt)|2|
 |[To taste freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20taste%20freshly%20ground%20black%20peppers)||
@@ -52,7 +71,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking soda, Bay leaf and Garlic cloves.
+Baking soda, Bay leaf, Garlic cloves and Water.
 
 
-_This shopping list was generated at 01-10-2022 20:51:20._
+_This shopping list was generated at 01-10-2022 20:52:14._
