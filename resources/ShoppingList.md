@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 10-Oct 2022|[Hokkaido Pumpkin and Ginger Soup #145](https://github.com/bryanbr23/Recipes/issues/145)|
 |Tue 11-Oct 2022|[Chili - Instant Pot #160](https://github.com/bryanbr23/Recipes/issues/160)|
 |Wed 12-Oct 2022|[Penne Arrabiatta (2 people) #26](https://github.com/bryanbr23/Recipes/issues/26)|
+|Thu 13-Oct 2022|[Bratwurst and Sauer Kraut #180](https://github.com/bryanbr23/Recipes/issues/180)|
 
 ## 🛒 Shopping List
 
@@ -46,4 +47,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Garlic cloves and Salt.
 
 
-_This shopping list was generated at 10-10-2022 11:55:46._
+_This shopping list was generated at 10-10-2022 12:24:23._
