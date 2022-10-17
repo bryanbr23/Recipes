@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 19-Oct 2022|[Vegetarian Chili #105](https://github.com/bryanbr23/Recipes/issues/105)|
 |Thu 20-Oct 2022|[
 Epic-dry-rubbed-baked-chicken-wings #48](https://github.com/bryanbr23/Recipes/issues/48)|
+||[Hawaiian Chicken Breasts #187](https://github.com/bryanbr23/Recipes/issues/187)|
 |Fri 21-Oct 2022|[Penne Arrabiatta (2 people) #26](https://github.com/bryanbr23/Recipes/issues/26)|
 
 ## 🛒 Shopping List
@@ -30,6 +31,7 @@ Epic-dry-rubbed-baked-chicken-wings #48](https://github.com/bryanbr23/Recipes/is
 |[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|1/4 tsp|
 |[Cans tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cans%20tomatoes)|2|
 |[Cayenne peppers (less if you're worried about the heat level)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cayenne%20peppers%20(less%20if%20you're%20worried%20about%20the%20heat%20level))|1/2 tsp|
+|[Chicken breasts](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breasts)||
 |[Chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chili%20powder)|3/4 tsp|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
 |[Crumbled gorgonzola cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crumbled%20gorgonzola%20cheese)|2 -3 oz|
@@ -72,6 +74,7 @@ Epic-dry-rubbed-baked-chicken-wings #48](https://github.com/bryanbr23/Recipes/is
 |[Teaspoon sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20sesame%20oil)|1|
 |[Teaspoon vegetable oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20vegetable%20oil)|1|
 |[Teaspoons cornstarch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20cornstarch)|2|
+|[Zucchini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zucchini)||
 
 ## 🏪 Pantry Ingredients
 
@@ -80,4 +83,4 @@ The following items have not been added to the shopping list as they are like in
 Butter, Cumin, Dried oregano, Garlic cloves, Garlic powder and Water.
 
 
-_This shopping list was generated at 17-10-2022 08:23:37._
+_This shopping list was generated at 17-10-2022 08:30:22._
