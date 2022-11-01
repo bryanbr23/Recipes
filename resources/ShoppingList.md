@@ -16,6 +16,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Sun 06-Nov 2022|[Chicken Piccata #67](https://github.com/bryanbr23/Recipes/issues/67)|
 |Mon 07-Nov 2022|[Pasta Fagioli #107](https://github.com/bryanbr23/Recipes/issues/107)|
 |Tue 08-Nov 2022|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
+|Wed 09-Nov 2022|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
 
 ## 🛒 Shopping List
 
@@ -34,9 +35,11 @@ This shopping list has been automatically generated with the ingredients from th
 |[Aeplermagronon  (macaroni)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Aeplermagronon%20%20(macaroni))|200g|
 |[All-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/All-purpose%20flour)|½ cup|
 |[Carrots optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots%20optional)|1 ½ cup|
+|[Chicken stock 200ml](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20200ml)||
 |[Chicken stock or low-sodium chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20low-sodium%20chicken%20broth)|1 cup|
 |[Chopped flat-leaf parsley leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20flat-leaf%20parsley%20leaves)|¼ cup|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|4 + 3|
+|[Coriander ½ bunch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20½%20bunch)||
 |[Cups (480 ml) low-sodium vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20(480%20ml)%20low-sodium%20vegetable%20broth)|2|
 |[Cups beef broth or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20beef%20broth%20or%20water)|2|
 |[Cups broccoli florets](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20broccoli%20florets)|4|
@@ -45,17 +48,22 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cups low-sodium chicken broth (or vegetable broth)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20low-sodium%20chicken%20broth%20(or%20vegetable%20broth))|4|
 |[Cups potatoes optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20potatoes%20optional)|3|
 |[Diced tomatoes canned](https://www.sainsburys.co.uk/gol-ui/SearchResults/Diced%20tomatoes%20canned)|1 cup|
+|[Dried chillies flakes a pinch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20chillies%20flakes%20a%20pinch)||
 |[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|½ cup|
 |[Fest kochende potatoes (cut in 2 cm pieces)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fest%20kochende%20potatoes%20(cut%20in%202%20cm%20pieces))|500g|
 |[For serving: basmati or jasmine rice and indian flatbread such as roti](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20serving:%20basmati%20or%20jasmine%20rice%20and%20indian%20flatbread%20such%20as%20roti)||
 |[Freshly cracked black peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20cracked%20black%20peppers%20to%20taste)||
 |[Garlic (pressed)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20(pressed))|1|
+|[Garlic 2 cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%202%20cloves)||
+|[Ground cinnamon 1 tsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon%201%20tsp)||
+|[Ground cumin 2 tsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin%202%20tsp)||
 |[Hot cooked rice for serving](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20cooked%20rice%20for%20serving)||
 |[Inch piece of fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Inch%20piece%20of%20fresh%20ginger)|2|
 |[Kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt)||
 |[Kosher salt and ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt%20and%20ground%20black%20peppers)||
 |[Large fennel bulb](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20fennel%20bulb)|1|
 |[Large red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20red%20onions)|1|
+|[Lean minced lamb 500g](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lean%20minced%20lamb%20500g)||
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|1|
 |[Medium garlic cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20garlic%20cloves)|4|
 |[Medium onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions)|2|
@@ -64,9 +72,12 @@ This shopping list has been automatically generated with the ingredients from th
 |[Ounces pecorino romano cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20pecorino%20romano%20cheese)|2|
 |[Oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oyster%20sauce)|⅓ cup|
 |[Pints grape or cherry tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pints%20grape%20or%20cherry%20tomatoes)|2|
+|[Plum tomatoes 2 × 400g tins](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plum%20tomatoes%202%20×%20400g%20tins)||
 |[Pound flank](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20flank)|1|
 |[Prisen salz](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prisen%20salz)|2|
+|[Red onions 1](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions%201)||
 |[Rezenter bergkase (grated)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rezenter%20bergkase%20(grated))|200g|
+|[Root ginger 2cm chunk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Root%20ginger%202cm%20chunk)||
 |[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)|1/2 cup|
 |[Scallions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Scallions)||
 |[Serrano peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serrano%20peppers)|1-2|
@@ -116,7 +127,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Flour and Water.
+Flour, Olive oil and Water.
 
 
-_This shopping list was generated at 01-11-2022 14:08:56._
+_This shopping list was generated at 01-11-2022 14:09:50._
