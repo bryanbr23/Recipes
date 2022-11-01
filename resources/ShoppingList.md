@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Thu 03-Nov 2022|[Dal Makahni #186](https://github.com/bryanbr23/Recipes/issues/186)|
 |Fri 04-Nov 2022|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
 |Sat 05-Nov 2022|[Hungarian Goulash #170](https://github.com/bryanbr23/Recipes/issues/170)|
+|Sun 06-Nov 2022|[Chicken Piccata #67](https://github.com/bryanbr23/Recipes/issues/67)|
 
 ## 🛒 Shopping List
 
@@ -28,7 +29,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[4-ounce / 400g) can crushed tomatoes (or half of a 28-ounce can)](https://www.sainsburys.co.uk/gol-ui/SearchResults/4-ounce%20/%20400g)%20can%20crushed%20tomatoes%20(or%20half%20of%20a%2028-ounce%20can))|1|
 |[A small lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/A%20small%20lemon)|1/2|
 |[Aeplermagronon  (macaroni)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Aeplermagronon%20%20(macaroni))|200g|
+|[All-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/All-purpose%20flour)|½ cup|
 |[Carrots optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots%20optional)|1 ½ cup|
+|[Chicken stock or low-sodium chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20low-sodium%20chicken%20broth)|1 cup|
+|[Chopped flat-leaf parsley leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20flat-leaf%20parsley%20leaves)|¼ cup|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|4|
 |[Cups (480 ml) low-sodium vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20(480%20ml)%20low-sodium%20vegetable%20broth)|2|
 |[Cups beef broth or water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20beef%20broth%20or%20water)|2|
@@ -36,19 +40,24 @@ This shopping list has been automatically generated with the ingredients from th
 |[Cups low-sodium chicken broth (or vegetable broth)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20low-sodium%20chicken%20broth%20(or%20vegetable%20broth))|4|
 |[Cups potatoes optional](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20potatoes%20optional)|3|
 |[Diced tomatoes canned](https://www.sainsburys.co.uk/gol-ui/SearchResults/Diced%20tomatoes%20canned)|1 cup|
+|[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|½ cup|
 |[Fest kochende potatoes (cut in 2 cm pieces)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fest%20kochende%20potatoes%20(cut%20in%202%20cm%20pieces))|500g|
 |[For serving: basmati or jasmine rice and indian flatbread such as roti](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20serving:%20basmati%20or%20jasmine%20rice%20and%20indian%20flatbread%20such%20as%20roti)||
 |[Freshly cracked black peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20cracked%20black%20peppers%20to%20taste)||
 |[Garlic (pressed)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20(pressed))|1|
 |[Inch piece of fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Inch%20piece%20of%20fresh%20ginger)|2|
+|[Kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt)||
 |[Medium onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions)|2|
 |[Onions finely chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions%20finely%20chopped)|2|
 |[Prisen salz](https://www.sainsburys.co.uk/gol-ui/SearchResults/Prisen%20salz)|2|
 |[Rezenter bergkase (grated)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Rezenter%20bergkase%20(grated))|200g|
 |[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)|1/2 cup|
 |[Serrano peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serrano%20peppers)|1-2|
+|[Small lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20lemons)|2|
 |[Tablespoon minced fresh turmeric](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20minced%20fresh%20turmeric)|1|
 |[Tablespoon refined or virgin coconut oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20refined%20or%20virgin%20coconut%20oil)|1|
+|[Tablespoons capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20capers)|2|
+|[Tablespoons finely grated parmigiano-reggiano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20finely%20grated%20parmigiano-reggiano)|2|
 |[Tablespoons paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20paprika)|2|
 |[Tablespoons unsweetened creamy almond butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20unsweetened%20creamy%20almond%20butter)|3|
 |[Teaspoon caraway seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20caraway%20seeds)|1|
@@ -64,6 +73,9 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoon salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20salt)|1|
 |[Teaspoons butter or lard (preferred)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20butter%20or%20lard%20(preferred))|2|
 |[Teaspoons curry powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20curry%20powder)|2|
+|[To 3 tablespoons olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%203%20tablespoons%20olive%20oil)|2|
+|[To 4 tablespoons unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%204%20tablespoons%20unsalted%20butter)|3|
+|[½ pounds thinly sliced chicken breast cutlets](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20pounds%20thinly%20sliced%20chicken%20breast%20cutlets)|1|
 |[▢kosher salt or sea salt to taste (i use about 1 tsp kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/▢kosher%20salt%20or%20sea%20salt%20to%20taste%20(i%20use%20about%201%20tsp%20kosher%20salt)||
 
 ## 🏪 Pantry Ingredients
@@ -73,4 +85,4 @@ The following items have not been added to the shopping list as they are like in
 F, l, o, u and r.
 
 
-_This shopping list was generated at 01-11-2022 13:53:22._
+_This shopping list was generated at 01-11-2022 14:03:12._
