@@ -25,3 +25,4 @@ Beef and Guinness Stew
 Best Chicken Tikka
 Best Chili
 Best Chocolate Chip Cookies
+Black Beans
