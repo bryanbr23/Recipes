@@ -19,3 +19,4 @@ Basic Burgers
 Beef Barbacoa
 Beef Cheeks in Wine Sauce - Slow Cooker
 Beef Stew
+Beef Stroganof
