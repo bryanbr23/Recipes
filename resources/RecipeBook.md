@@ -21,3 +21,4 @@ Beef Cheeks in Wine Sauce - Slow Cooker
 Beef Stew
 Beef Stroganof
 Beef and Brocolli
+Beef and Guinness Stew
