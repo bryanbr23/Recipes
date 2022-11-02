@@ -1,9 +1,4 @@
-
-Epic-dry-rubbed-baked-chicken-wings
-
-Veggie Stew
- Southern Pulled Pork BBQ Sauce
-7 Flavor Beef
+7 Flavor Beef
 AL ROKER’S MEMPHIS STYLE RIBS
 
 Aeplermagron (Macaroni)
@@ -55,6 +50,7 @@ Veggie Stew
 Chicken Teriyaki
 Chicken Tikka Masala
 Chicken Tortilla Soup (Instant Pot)
+Chicken Wings -- Epic
 Chili - Instant Pot
 Chimichurri Sauce
 Chorizo-Pfanne with Kohlrabi-Potato Puree
@@ -163,6 +159,7 @@ Veggie Stew
 Slow Cooker Pork Tenderloin
 Smokey Tomato Sauce
 Somerset’s Mushroom Bolognese
+Southern Pulled Pork BBQ Sauce
 Spaghetti Bolognese
 Spaghetti Carbonara
 Spaghetti Carbonara
@@ -177,6 +174,7 @@ Veggie Stew
 Vegan Mac and Cheese Mix (from Miyoko's Kitchen)
 Vegan Red Lentil Curry
 Vegetarian Chili
+Veggie Stew
 Vietnamese ShrimpPops with PeanutSauce
 Yogurt and Olive Oil Flatbreads
 Zesty Carrots
