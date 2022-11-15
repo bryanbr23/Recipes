@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 174 all recipes recipes in the cookbook.
+There are 175 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -121,6 +121,8 @@ There are 174 all recipes recipes in the cookbook.
 ||[121](https://github.com/bryanbr23/Recipes/issues/121)|[Nadiya Hussein Time to Eat Noodles](https://github.com/bryanbr23/Recipes/issues/121)| |Pasta<br>Noodles|
 ||[134](https://github.com/bryanbr23/Recipes/issues/134)|[Nduja fennel pastries](https://github.com/bryanbr23/Recipes/issues/134)| |Bread|
 ||[84](https://github.com/bryanbr23/Recipes/issues/84)|[Nutty Nutmeg Granola](https://github.com/bryanbr23/Recipes/issues/84)| |Breakfast|
+| O||||
+||[201](https://github.com/bryanbr23/Recipes/issues/201)|[One-Pot Vegetable Biryani](https://github.com/bryanbr23/Recipes/issues/201)| |Vegetarian|
 | P||||
 ||[107](https://github.com/bryanbr23/Recipes/issues/107)|[Pasta Fagioli](https://github.com/bryanbr23/Recipes/issues/107)| |Pasta|
 ||[27](https://github.com/bryanbr23/Recipes/issues/27)|[Pasta Mediterranen](https://github.com/bryanbr23/Recipes/issues/27)| |Pasta|
@@ -142,8 +144,8 @@ There are 174 all recipes recipes in the cookbook.
 ||[80](https://github.com/bryanbr23/Recipes/issues/80)|[Seasoned Potatoes](https://github.com/bryanbr23/Recipes/issues/80)| |Vegetarian|
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
+||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
@@ -173,4 +175,4 @@ There are 174 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 14-11-2022 02:07:08 using a custom Python script and GitHub Action._
+_This index was automatically generated at 15-11-2022 02:05:37 using a custom Python script and GitHub Action._
