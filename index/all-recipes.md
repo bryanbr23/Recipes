@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 175 all recipes recipes in the cookbook.
+There are 176 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -124,6 +124,7 @@ There are 175 all recipes recipes in the cookbook.
 | O||||
 ||[201](https://github.com/bryanbr23/Recipes/issues/201)|[One-Pot Vegetable Biryani](https://github.com/bryanbr23/Recipes/issues/201)| |Vegetarian|
 | P||||
+||[202](https://github.com/bryanbr23/Recipes/issues/202)|[Paccheri and Vegetables](https://github.com/bryanbr23/Recipes/issues/202)| |Pasta|
 ||[107](https://github.com/bryanbr23/Recipes/issues/107)|[Pasta Fagioli](https://github.com/bryanbr23/Recipes/issues/107)| |Pasta|
 ||[27](https://github.com/bryanbr23/Recipes/issues/27)|[Pasta Mediterranen](https://github.com/bryanbr23/Recipes/issues/27)| |Pasta|
 ||[26](https://github.com/bryanbr23/Recipes/issues/26)|[Penne Arrabiatta (2 people)](https://github.com/bryanbr23/Recipes/issues/26)| |Pasta|
@@ -152,8 +153,8 @@ There are 175 all recipes recipes in the cookbook.
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
 ||[1](https://github.com/bryanbr23/Recipes/issues/1)|[Spaghetti Bolognese](https://github.com/bryanbr23/Recipes/issues/1)| |Italian<br>Pasta<br>Beef<br>Favorite|
-||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
+||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
@@ -175,4 +176,4 @@ There are 175 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 21-11-2022 02:07:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 22-11-2022 02:07:49 using a custom Python script and GitHub Action._
