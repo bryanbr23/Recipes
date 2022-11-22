@@ -1,6 +1,6 @@
 # Pasta
 
-There are 20 pasta recipes in the cookbook.
+There are 21 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -17,6 +17,7 @@ There are 20 pasta recipes in the cookbook.
 | N||||
 ||[121](https://github.com/bryanbr23/Recipes/issues/121)|[Nadiya Hussein Time to Eat Noodles](https://github.com/bryanbr23/Recipes/issues/121)| |Pasta<br>Noodles|
 | P||||
+||[202](https://github.com/bryanbr23/Recipes/issues/202)|[Paccheri and Vegetables](https://github.com/bryanbr23/Recipes/issues/202)| |Pasta|
 ||[107](https://github.com/bryanbr23/Recipes/issues/107)|[Pasta Fagioli](https://github.com/bryanbr23/Recipes/issues/107)| |Pasta|
 ||[27](https://github.com/bryanbr23/Recipes/issues/27)|[Pasta Mediterranen](https://github.com/bryanbr23/Recipes/issues/27)| |Pasta|
 ||[26](https://github.com/bryanbr23/Recipes/issues/26)|[Penne Arrabiatta (2 people)](https://github.com/bryanbr23/Recipes/issues/26)| |Pasta|
@@ -28,12 +29,12 @@ There are 20 pasta recipes in the cookbook.
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[1](https://github.com/bryanbr23/Recipes/issues/1)|[Spaghetti Bolognese](https://github.com/bryanbr23/Recipes/issues/1)| |Italian<br>Pasta<br>Beef<br>Favorite|
-||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
+||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
 | T||||
 ||[89](https://github.com/bryanbr23/Recipes/issues/89)|[Tuna Pasta with Tomato and Olives](https://github.com/bryanbr23/Recipes/issues/89)| |Pasta|
 | V||||
 ||[33](https://github.com/bryanbr23/Recipes/issues/33)|[Vegan Mac and Cheese Mix (from Miyoko's Kitchen)](https://github.com/bryanbr23/Recipes/issues/33)| |Pasta|
 
-_This index was automatically generated at 21-11-2022 02:07:22 using a custom Python script and GitHub Action._
+_This index was automatically generated at 22-11-2022 02:07:58 using a custom Python script and GitHub Action._
