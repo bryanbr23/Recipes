@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 176 all recipes recipes in the cookbook.
+There are 178 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -163,6 +163,7 @@ There are 176 all recipes recipes in the cookbook.
 ||[140](https://github.com/bryanbr23/Recipes/issues/140)|[Sun-Dried Tomato Dressing](https://github.com/bryanbr23/Recipes/issues/140)| |Salad Dressing|
 | T||||
 ||[200](https://github.com/bryanbr23/Recipes/issues/200)|[Teriyaki Tofu Salad with Glass Noodles](https://github.com/bryanbr23/Recipes/issues/200)| |Salad|
+||[204](https://github.com/bryanbr23/Recipes/issues/204)|[Teriyaki and Hoisin Crispy Chicken](https://github.com/bryanbr23/Recipes/issues/204)| |Chicken<br>Asian|
 ||[89](https://github.com/bryanbr23/Recipes/issues/89)|[Tuna Pasta with Tomato and Olives](https://github.com/bryanbr23/Recipes/issues/89)| |Pasta|
 | V||||
 ||[70](https://github.com/bryanbr23/Recipes/issues/70)|[Vanilla Hazelnut Granola](https://github.com/bryanbr23/Recipes/issues/70)| |Breakfast|
@@ -176,4 +177,4 @@ There are 176 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 27-11-2022 02:00:11 using a custom Python script and GitHub Action._
+_This index was automatically generated at 28-11-2022 01:53:58 using a custom Python script and GitHub Action._
