@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 178 all recipes recipes in the cookbook.
+There are 182 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -61,7 +61,9 @@ There are 178 all recipes recipes in the cookbook.
 ||[94](https://github.com/bryanbr23/Recipes/issues/94)|[Corn Bread Pot Pie:](https://github.com/bryanbr23/Recipes/issues/94)| |Vegetarian|
 ||[190](https://github.com/bryanbr23/Recipes/issues/190)|[Cornbread](https://github.com/bryanbr23/Recipes/issues/190)| |Bread|
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
+||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
 ||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
+||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -123,6 +125,7 @@ There are 178 all recipes recipes in the cookbook.
 ||[84](https://github.com/bryanbr23/Recipes/issues/84)|[Nutty Nutmeg Granola](https://github.com/bryanbr23/Recipes/issues/84)| |Breakfast|
 | O||||
 ||[201](https://github.com/bryanbr23/Recipes/issues/201)|[One-Pot Vegetable Biryani](https://github.com/bryanbr23/Recipes/issues/201)| |Vegetarian|
+||[209](https://github.com/bryanbr23/Recipes/issues/209)|[Orange Squares](https://github.com/bryanbr23/Recipes/issues/209)| |Cookies|
 | P||||
 ||[202](https://github.com/bryanbr23/Recipes/issues/202)|[Paccheri and Vegetables](https://github.com/bryanbr23/Recipes/issues/202)| |Pasta|
 ||[107](https://github.com/bryanbr23/Recipes/issues/107)|[Pasta Fagioli](https://github.com/bryanbr23/Recipes/issues/107)| |Pasta|
@@ -141,6 +144,7 @@ There are 178 all recipes recipes in the cookbook.
 ||[175](https://github.com/bryanbr23/Recipes/issues/175)|[Rigatoni all'Amatriciana (Rigatoni With Guanciale and Tomatoes)](https://github.com/bryanbr23/Recipes/issues/175)| |Pasta|
 ||[182](https://github.com/bryanbr23/Recipes/issues/182)|[Roasted Red Pepper Pasta](https://github.com/bryanbr23/Recipes/issues/182)| |Italian<br>Vegetarian|
 | S||||
+||[208](https://github.com/bryanbr23/Recipes/issues/208)|[Schoki-Pfeffer-Bomben](https://github.com/bryanbr23/Recipes/issues/208)| |Cookies|
 ||[54](https://github.com/bryanbr23/Recipes/issues/54)|[Schuhbecks Salat-Dressing für alle Blattsalate](https://github.com/bryanbr23/Recipes/issues/54)| |Salad|
 ||[80](https://github.com/bryanbr23/Recipes/issues/80)|[Seasoned Potatoes](https://github.com/bryanbr23/Recipes/issues/80)| |Vegetarian|
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
@@ -153,8 +157,8 @@ There are 178 all recipes recipes in the cookbook.
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
 ||[1](https://github.com/bryanbr23/Recipes/issues/1)|[Spaghetti Bolognese](https://github.com/bryanbr23/Recipes/issues/1)| |Italian<br>Pasta<br>Beef<br>Favorite|
-||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
+||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
@@ -177,4 +181,4 @@ There are 178 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 24-12-2022 01:36:00 using a custom Python script and GitHub Action._
+_This index was automatically generated at 25-12-2022 01:46:30 using a custom Python script and GitHub Action._
