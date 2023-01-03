@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 182 all recipes recipes in the cookbook.
+There are 185 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -42,6 +42,7 @@ There are 182 all recipes recipes in the cookbook.
 ||[40](https://github.com/bryanbr23/Recipes/issues/40)|[Chicken Metaxa](https://github.com/bryanbr23/Recipes/issues/40)| |Chicken|
 ||[67](https://github.com/bryanbr23/Recipes/issues/67)|[Chicken Piccata](https://github.com/bryanbr23/Recipes/issues/67)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken Piccata' width='200'/>|Chicken|
 ||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
+||[213](https://github.com/bryanbr23/Recipes/issues/213)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/213)| |Soup|
 ||[116](https://github.com/bryanbr23/Recipes/issues/116)|[Chicken Satay with Peanut Sauce](https://github.com/bryanbr23/Recipes/issues/116)| |Chicken|
 ||[42](https://github.com/bryanbr23/Recipes/issues/42)|[Chicken Schwarma](https://github.com/bryanbr23/Recipes/issues/42)| |Chicken|
 ||[43](https://github.com/bryanbr23/Recipes/issues/43)|[Chicken Schwarma 2](https://github.com/bryanbr23/Recipes/issues/43)| |Chicken|
@@ -52,6 +53,7 @@ There are 182 all recipes recipes in the cookbook.
 ||[197](https://github.com/bryanbr23/Recipes/issues/197)|[Chicken Tortilla Soup (Instant Pot)](https://github.com/bryanbr23/Recipes/issues/197)| |Chicken<br>Soup<br>Instant Pot|
 ||[48](https://github.com/bryanbr23/Recipes/issues/48)|[Chicken Wings -- Epic](https://github.com/bryanbr23/Recipes/issues/48)| |Chicken|
 ||[160](https://github.com/bryanbr23/Recipes/issues/160)|[Chili - Instant Pot](https://github.com/bryanbr23/Recipes/issues/160)| |Soup<br>Instant Pot|
+||[214](https://github.com/bryanbr23/Recipes/issues/214)|[Chocolate Lava Cake](https://github.com/bryanbr23/Recipes/issues/214)| |Dessert|
 ||[115](https://github.com/bryanbr23/Recipes/issues/115)|[Chorizo-Pfanne with Kohlrabi-Potato Puree](https://github.com/bryanbr23/Recipes/issues/115)| |Pork|
 ||[71](https://github.com/bryanbr23/Recipes/issues/71)|[Christmas Cake (Mary Berry)](https://github.com/bryanbr23/Recipes/issues/71)| |Dessert|
 ||[47](https://github.com/bryanbr23/Recipes/issues/47)|[Chuck Roast](https://github.com/bryanbr23/Recipes/issues/47)| |Beef|
@@ -62,8 +64,8 @@ There are 182 all recipes recipes in the cookbook.
 ||[190](https://github.com/bryanbr23/Recipes/issues/190)|[Cornbread](https://github.com/bryanbr23/Recipes/issues/190)| |Bread|
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
+||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -148,6 +150,7 @@ There are 182 all recipes recipes in the cookbook.
 ||[54](https://github.com/bryanbr23/Recipes/issues/54)|[Schuhbecks Salat-Dressing für alle Blattsalate](https://github.com/bryanbr23/Recipes/issues/54)| |Salad|
 ||[80](https://github.com/bryanbr23/Recipes/issues/80)|[Seasoned Potatoes](https://github.com/bryanbr23/Recipes/issues/80)| |Vegetarian|
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
+||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
 ||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
@@ -181,4 +184,4 @@ There are 182 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 02-01-2023 01:42:37 using a custom Python script and GitHub Action._
+_This index was automatically generated at 03-01-2023 01:42:24 using a custom Python script and GitHub Action._
