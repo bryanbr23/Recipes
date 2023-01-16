@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 16-Jan 2023|[Beef and Brocolli #113](https://github.com/bryanbr23/Recipes/issues/113)|
-|Tue 17-Jan 2023|[Nadiya Hussein Time to Eat Noodles #121](https://github.com/bryanbr23/Recipes/issues/121)|
-|Wed 18-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Tue 17-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Wed 18-Jan 2023|[Nadiya Hussein Time to Eat Noodles #121](https://github.com/bryanbr23/Recipes/issues/121)|
 |Thu 19-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
 |Fri 20-Jan 2023|[Hokkaido Pumpkin and Ginger Soup #145](https://github.com/bryanbr23/Recipes/issues/145)|
 
@@ -74,4 +74,4 @@ The following items have not been added to the shopping list as they are like in
 Salt and Water.
 
 
-_This shopping list was generated at 16-01-2023 09:30:09._
+_This shopping list was generated at 16-01-2023 14:55:12._
