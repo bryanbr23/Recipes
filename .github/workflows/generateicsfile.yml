@@ -1,41 +1,55 @@
+# Version 1.1 -- added copy direct instead of worrying about another action.  Added concurrency as well. 
+
 name: Generate calendar from project columns and cards
+
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '1 0 * * *'
+  # schedule:
+  #   - cron: '1 0 * * *'
   project_card: 
     types: [created, moved, converted, edited, deleted]
   project_column:
     types: [created, updated, moved, deleted]
+
 jobs:
-  dump_contexts_to_log:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Dump GitHub context
-        id: github_context_step
-        run: echo '${{ toJSON(github) }}'
-      - name: Dump job context
-        run: echo '${{ toJSON(job) }}'
-      - name: Dump steps context
-        run: echo '${{ toJSON(steps) }}'
-      - name: Dump runner context
-        run: echo '${{ toJSON(runner) }}'
-      - name: Dump strategy context
-        run: echo '${{ toJSON(strategy) }}'
-      - name: Dump matrix context
-        run: echo '${{ toJSON(matrix) }}'
+
   build:
+    name: Run python scripts
     runs-on: ubuntu-latest
+    env: 
+      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
+
     steps:
+
     - name: Check-out repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
+
     - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.9    
+        python-version: 3.9
+
     - name: Install Python dependencies
       run: pip install -Uq PyGithub
+
     - name: Generate ICS file
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
+
+## Why are we pushing to another repo.  
+##   Perhaps simply post to website.  For now, let's keep it.
+
+    - name: Push ICS to webapp repo
+      uses: GuillaumeFalourd/copy-push-files@v1
+      with:
+        source_files: ${{ env.ICS_PATH }} 
+        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
+        access_token: ${{ secrets.ACCESS_TOKEN }}
+        target_branch: 'main'
+
