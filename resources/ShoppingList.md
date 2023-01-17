@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 17-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
-|Wed 18-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Tue 17-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Wed 18-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
 |Thu 19-Jan 2023|[Nadiya Hussein Time to Eat Noodles #121](https://github.com/bryanbr23/Recipes/issues/121)|
 |Fri 20-Jan 2023|[Hokkaido Pumpkin and Ginger Soup #145](https://github.com/bryanbr23/Recipes/issues/145)|
 
@@ -55,4 +55,4 @@ The following items have not been added to the shopping list as they are like in
 S, a, l and t.
 
 
-_This shopping list was generated at 17-01-2023 15:04:51._
+_This shopping list was generated at 17-01-2023 15:20:32._
