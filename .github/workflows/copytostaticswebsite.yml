@@ -2,9 +2,11 @@ name: Push MealPlanner to Static Website
 
 on:
   push: 
+    branches:
+      - main
   workflow_dispatch:
-  schedule:
-    - cron: '1 0 * * *'
+  # schedule:
+  #  - cron: '1 0 * * *'
 
 jobs:
   copy-file:
