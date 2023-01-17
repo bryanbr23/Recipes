@@ -8,7 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Tue 17-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Tue 17-Jan 2023|[Chicken Piccata #67](https://github.com/bryanbr23/Recipes/issues/67)|
 |Wed 18-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
 |Thu 19-Jan 2023|[Nadiya Hussein Time to Eat Noodles #121](https://github.com/bryanbr23/Recipes/issues/121)|
 |Fri 20-Jan 2023|[Hokkaido Pumpkin and Ginger Soup #145](https://github.com/bryanbr23/Recipes/issues/145)|
@@ -24,11 +24,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[5-oz. can kidney beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/5-oz.%20can%20kidney%20beans)|1|
 |[5-oz. can pinto beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/5-oz.%20can%20pinto%20beans)|1|
 |[5-oz. can tomato sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/5-oz.%20can%20tomato%20sauce)|1|
+|[All-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/All-purpose%20flour)|½ cup|
 |[Beef broth (chicken broth or water works too)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20broth%20(chicken%20broth%20or%20water%20works%20too))|1 cup|
+|[Chicken stock or low-sodium chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20or%20low-sodium%20chicken%20broth)|1 cup|
+|[Chopped flat-leaf parsley leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20flat-leaf%20parsley%20leaves)|¼ cup|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
 |[Creme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creme)|250g|
 |[Curry](https://www.sainsburys.co.uk/gol-ui/SearchResults/Curry)|1 tsp|
+|[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|½ cup|
 |[Hokaido pumpkin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hokaido%20pumpkin)|500g|
+|[Kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt)||
 |[Kurkurma](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kurkurma)|1 tsp|
 |[Lb. ground beef (we used 85% fat)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lb.%20ground%20beef%20(we%20used%2085%%20fat))|1|
 |[Medium onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions)|1|
@@ -37,16 +42,22 @@ This shopping list has been automatically generated with the ingredients from th
 |[Oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oil)|1 tsp|
 |[Pinch cayenne pfeffer](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20cayenne%20pfeffer)|1|
 |[Pinch cinnamon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinch%20cinnamon)|1|
+|[Small lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20lemons)|2|
 |[Tablespoon maple syrup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20maple%20syrup)|1|
 |[Tablespoon minced garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20minced%20garlic)|1|
+|[Tablespoons capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20capers)|2|
 |[Tablespoons chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20chili%20powder)|3|
+|[Tablespoons finely grated parmigiano-reggiano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20finely%20grated%20parmigiano-reggiano)|2|
 |[Tablespoons tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20tomato%20paste)|3|
 |[Teaspoon ground peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20ground%20peppers)|1/4|
 |[Teaspoon smoked paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20smoked%20paprika)|1/2|
 |[Teaspoons garlic powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20garlic%20powder)|2|
 |[Teaspoons ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20ground%20cumin)|2|
 |[Teaspoons salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20salt)|1/2|
+|[To 3 tablespoons olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%203%20tablespoons%20olive%20oil)|2|
+|[To 4 tablespoons unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%204%20tablespoons%20unsalted%20butter)|3|
 |[Vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vegetable%20broth)|800ml|
+|[½ pounds thinly sliced chicken breast cutlets](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20pounds%20thinly%20sliced%20chicken%20breast%20cutlets)|1|
 
 ## 🏪 Pantry Ingredients
 
@@ -55,4 +66,4 @@ The following items have not been added to the shopping list as they are like in
 S, a, l and t.
 
 
-_This shopping list was generated at 17-01-2023 15:20:32._
+_This shopping list was generated at 17-01-2023 15:27:41._
