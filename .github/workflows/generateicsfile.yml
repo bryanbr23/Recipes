@@ -27,7 +27,7 @@ jobs:
     steps:
 
     - name: Check-out repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2.3.4
 
     - name: Set up Python 3.9
       uses: actions/setup-python@v4
@@ -43,10 +43,9 @@ jobs:
         CONTEXT_GITHUB: ${{ toJson(github) }}
         
     - name: Push ICS to webapp repo
-    - uses: actions/checkout@2.3.4
     - uses: GuillaumeFalourd/copy-push-files@v1
       with:
-        source_files: ${{ env.ICS_PATH }} 
+        source_files: ${{ env.ICS_PATH }}
+        target_branch: 'main'
         remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
         access_token: ${{ secrets.ACCESS_TOKEN }}
-        target_branch: 'main'
