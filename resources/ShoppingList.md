@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Wed 18-Jan 2023|[Honey-Garlic Chicken Stir-fry #189](https://github.com/bryanbr23/Recipes/issues/189)|
-|Thu 19-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
-|Fri 20-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Thu 19-Jan 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
+|Fri 20-Jan 2023|[Best Chili #98](https://github.com/bryanbr23/Recipes/issues/98)|
 
 ## 🛒 Shopping List
 
