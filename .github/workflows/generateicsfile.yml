@@ -43,7 +43,7 @@ jobs:
         CONTEXT_GITHUB: ${{ toJson(github) }}
         
     - name: Push ICS to webapp repo
-    - uses: GuillaumeFalourd/copy-push-files@v1
+      uses: GuillaumeFalourd/copy-push-files@v1
       with:
         source_files: ${{ env.ICS_PATH }}
         target_branch: 'main'
