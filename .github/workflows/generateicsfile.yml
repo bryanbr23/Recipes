@@ -41,19 +41,12 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
-
-  publish:
-     name: Copy File to Repository
-     runs-on: ubuntu-latest
-     env: 
-      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
-     needs: build
-      
-     steps:
-      - name: Push ICS to webapp repo
-        uses: GuillaumeFalourd/copy-push-files@v1
-        with:
-          source_files: ${{ env.ICS_PATH }} 
-          remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          target_branch: 'main'
+        
+    - name: Push ICS to webapp repo
+    - uses: actions/checkout@2.3.4
+    - uses: GuillaumeFalourd/copy-push-files@v1
+      with:
+        source_files: ${{ env.ICS_PATH }} 
+        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
+        access_token: ${{ secrets.ACCESS_TOKEN }}
+        target_branch: 'main'
