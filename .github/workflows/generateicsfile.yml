@@ -45,6 +45,9 @@ jobs:
     - name: Push ICS to webapp repo
       uses: GuillaumeFalourd/copy-push-files@v1
       with:
+        email: ${{ github.actor }}[bot]@users.noreply.github.com
+        name: ${{ github.actor }}
+        commit_message: calendar_update
         source_files: ${{ env.ICS_PATH }} 
         remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
         target_branch: main
