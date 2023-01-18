@@ -42,14 +42,18 @@ jobs:
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
 
-## Why are we pushing to another repo.  
-##   Perhaps simply post to website.  For now, let's keep it.
-
-    - name: Push ICS to webapp repo
-      uses: GuillaumeFalourd/copy-push-files@v1
-      with:
-        source_files: ${{ env.ICS_PATH }} 
-        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
-        access_token: ${{ secrets.ACCESS_TOKEN }}
-        target_branch: 'main'
-
+  publish:
+     name: Copy File to Repository
+     runs-on: ubuntu-latest
+     env: 
+      ICS_PATH: ${{ github.workspace }}/resources/MealPlanner.ics
+     needs: build
+      
+     steps:
+      - name: Push ICS to webapp repo
+        uses: GuillaumeFalourd/copy-push-files@v1
+        with:
+          source_files: ${{ env.ICS_PATH }} 
+          remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          target_branch: 'main'
