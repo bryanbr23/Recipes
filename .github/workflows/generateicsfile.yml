@@ -27,7 +27,7 @@ jobs:
     steps:
 
     - name: Check-out repository
-      uses: actions/checkout@v2.3.4
+      uses: actions/checkout@v3
 
     - name: Set up Python 3.9
       uses: actions/setup-python@v4
@@ -41,11 +41,13 @@ jobs:
       run: python .github/scripts/generateics.py
       env:
         CONTEXT_GITHUB: ${{ toJson(github) }}
-        
+
     - name: Push ICS to webapp repo
-      uses: GuillaumeFalourd/copy-push-files@v1
+      uses: andstor/copycat-action@v3
       with:
-        source_files: ${{ env.ICS_PATH }}
-        target_branch: 'main'
-        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
-        access_token: ${{ secrets.ACCESS_TOKEN }}
+        personal_token: ${{ secrets.ACCESS_TOKEN }}
+        src_path: /.
+        dst_path: /.
+        dst_owner: bryanbr23
+        dst_repo_name: B2HomeStaticWebRepo
+
