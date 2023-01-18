@@ -43,11 +43,8 @@ jobs:
         CONTEXT_GITHUB: ${{ toJson(github) }}
 
     - name: Push ICS to webapp repo
-      uses: andstor/copycat-action@v3
+      uses: GuillaumeFalourd/copy-push-files@v1
       with:
-        personal_token: ${{ secrets.ACCESS_TOKEN }}
-        src_path: /.
-        dst_path: /.
-        dst_owner: bryanbr23
-        dst_repo_name: B2HomeStaticWebRepo
-
+        source_files: ${{ env.ICS_PATH }} 
+        remote_repository: https://github.com/bryanbr23/B2HomeStaticWebRepo
+        access_token: ${{ secrets.ACCESS_TOKEN }}
