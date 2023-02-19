@@ -8,8 +8,8 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 20-Feb 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
-|Tue 21-Feb 2023|[Southern Pulled Pork BBQ Sauce #123](https://github.com/bryanbr23/Recipes/issues/123)|
+|Tue 21-Feb 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
+|Wed 22-Feb 2023|[Southern Pulled Pork BBQ Sauce #123](https://github.com/bryanbr23/Recipes/issues/123)|
 
 ## 🛒 Shopping List
 
