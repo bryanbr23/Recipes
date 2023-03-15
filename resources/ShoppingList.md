@@ -1,6 +1,6 @@
 # Shopping List
 
-Sun 26-Feb 2023 - Wed 08-Mar 2023
+Wed 15-Mar 2023 - Sat 25-Mar 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,42 +8,51 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Mon 27-Feb 2023|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
-|Thu 02-Mar 2023|[Moroccan Meatballs #163](https://github.com/bryanbr23/Recipes/issues/163)|
+|Wed 15-Mar 2023|[Mu Shu Pork #188](https://github.com/bryanbr23/Recipes/issues/188)|
+|Thu 16-Mar 2023|[Rigatoni all'Amatriciana (Rigatoni With Guanciale and Tomatoes) #175](https://github.com/bryanbr23/Recipes/issues/175)|
+|Fri 17-Mar 2023|[Austrian Goulash #217](https://github.com/bryanbr23/Recipes/issues/217)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[1/4 cup extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/1/4%20cup%20extra-virgin%20olive%20oil)|1/4 Cup extra-virgin Olive Oil cup|
-|[Bunch parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bunch%20parsley)|1|
-|[Can of chickpeas / kirchenerbsen](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20of%20chickpeas%20/%20kirchenerbsen)|1|
-|[Chicken stock 200ml](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20stock%20200ml)||
-|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|3|
-|[Coriander ½ bunch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Coriander%20½%20bunch)||
-|[Cucumber](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cucumber)|1|
-|[Cups feta cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20feta%20cheese)|1-2|
-|[Cups quinoa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20quinoa)|2|
-|[Cups vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20vegetable%20broth)|2|
-|[Dried chillies flakes a pinch](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20chillies%20flakes%20a%20pinch)||
-|[Garlic 2 cloves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%202%20cloves)||
-|[Ground cinnamon 1 tsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cinnamon%201%20tsp)||
-|[Ground cumin 2 tsp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin%202%20tsp)||
-|[Juice of 2 lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20of%202%20lemons)||
-|[Lean minced lamb 500g](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lean%20minced%20lamb%20500g)||
-|[Plum tomatoes 2 × 400g tins](https://www.sainsburys.co.uk/gol-ui/SearchResults/Plum%20tomatoes%202%20×%20400g%20tins)||
-|[Red onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions)|1|
-|[Red onions 1](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20onions%201)||
-|[Red peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20peppers)|1|
-|[Root ginger 2cm chunk](https://www.sainsburys.co.uk/gol-ui/SearchResults/Root%20ginger%202cm%20chunk)||
-|[Tablespoons red wine vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20red%20wine%20vinegar)|2|
-|[Teaspoon salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20salt)|1|
+|[1 1/4 tbsp hot paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%201/4%20tbsp%20hot%20paprika)|1 1/4 Tbsp Hot Paprika tbsp|
+|[1 tbsp dark soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20dark%20soy%20sauce)|1 Tbsp Dark Soy Sauce tbsp|
+|[1 tbsp rice wine or dry sherry](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20rice%20wine%20or%20dry%20sherry)|1 Tbsp Rice Wine or Dry Sherry tbsp|
+|[12oz onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/12oz%20onions)|1.25kg/2lb|
+|[2 tbsp caraway seeds](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20caraway%20seeds)|2 Tbsp caraway seeds, crushed in a pestle and mortar tbsp|
+|[4 tbsp dark sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/4%20tbsp%20dark%20sesame%20oil)|4 Tbsp Dark Sesame Oil tbsp|
+|[5oz shin of beef](https://www.sainsburys.co.uk/gol-ui/SearchResults/5oz%20shin%20of%20beef)|1.5kg/3lb|
+|[6 tbsp sweet paprika](https://www.sainsburys.co.uk/gol-ui/SearchResults/6%20tbsp%20sweet%20paprika)|6 Tbsp Sweet Paprika, Divided tbsp|
+|[Bay leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bay%20leaves)|3|
+|[C hoisin sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20hoisin%20sauce)|1/2|
+|[C low-sodium beef broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20low-sodium%20beef%20broth)|2|
+|[C slivered green cabbage](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20slivered%20green%20cabbage)|2|
+|[C tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20tomato%20paste)|1/4|
+|[Chopped flat leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20flat%20leaf%20parsley)|1 tbsp|
+|[Cider vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cider%20vinegar)|2 tsp|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|4|
+|[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
+|[Glass dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Glass%20dry%20white%20wine)|½|
+|[Green scalions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Green%20scalions)|4|
+|[Lard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lard)|100g/3½oz|
+|[Mu shu wrappers or tortillas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mu%20shu%20wrappers%20or%20tortillas)|12|
+|[Ounces | 100 grams grated pecorino romano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20|%20100%20grams%20grated%20pecorino%20romano)|3½|
+|[Ounces | 120 grams guanciale (cured pork jowl)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20|%20120%20grams%20guanciale%20(cured%20pork%20jowl))|4|
+|[Pound mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20mushrooms)|1/2|
+|[Pound pork tenderloin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pound%20pork%20tenderloin)|1|
+|[Pounds | 600 grams rigatoni (or bucatini)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pounds%20|%20600%20grams%20rigatoni%20(or%20bucatini))|1¼|
+|[Red bell peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red%20bell%20peppers)|1|
+|[San marzano tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/San%20marzano%20tomatoes)|6-7|
+|[Soured cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soured%20cream)||
+|[Tablespoon extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20extra-virgin%20olive%20oil)|1|
+|[Turns of the black peppers mill](https://www.sainsburys.co.uk/gol-ui/SearchResults/Turns%20of%20the%20black%20peppers%20mill)|12|
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-O, l, i, v, e,  , o, i and l.
+Garlic cloves and Salt.
 
 
-_This shopping list was generated at 26-02-2023 12:59:41._
+_This shopping list was generated at 15-03-2023 07:12:43._
