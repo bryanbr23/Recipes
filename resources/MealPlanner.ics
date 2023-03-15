@@ -3,46 +3,45 @@ PRODID://Bryan Bredehoeft
 VERSION:2.0
 X-WR-CALNAME:Meal
 BEGIN:VEVENT
-UID:ebcdede2-1272-4b8c-9c62-e3d343749010
-DTSTAMP:20230226T130551
-DTSTART:20230227T184500
-DTEND:20230227T203000
-SUMMARY:Quinoa Salad #177 for dinner
-DESCRIPTION:Quinoa Salad #177 - https://github.com/bryanbr23/Recipes/issues/177
+UID:9b4ab3c3-b63f-4d92-b812-586856e9d799
+DTSTAMP:20230315T071326
+DTSTART:20230315T184500
+DTEND:20230315T203000
+SUMMARY:Mu Shu Pork #188 for dinner
+DESCRIPTION:Mu Shu Pork #188 - https://github.com/bryanbr23/Recipes/issues/188
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:6f5246ea-7227-444d-ac28-320b8accca08
-DTSTAMP:20230226T130552
-DTSTART:20230228T184500
-DTEND:20230228T203000
-SUMMARY:Mushroom Risotto #220 for dinner
-DESCRIPTION:Mushroom Risotto #220 - https://github.com/bryanbr23/Recipes/issues/220
+UID:a4b92c98-dc3b-46a4-aca7-38121cc2839b
+DTSTAMP:20230315T071327
+DTSTART:20230316T184500
+DTEND:20230316T203000
+SUMMARY:Rigatoni all'Amatriciana (Rigatoni With Guanciale and Tomatoes) #175 for dinner
+DESCRIPTION:Rigatoni all'Amatriciana (Rigatoni With Guanciale and Tomatoes) #175 - https://github.com/bryanbr23/Recipes/issues/175
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:566cb4a3-1305-432a-b9bc-33bb439801b8
-DTSTAMP:20230226T130552
-DTSTART:20230301T184500
-DTEND:20230301T203000
-SUMMARY:Bratwurst and Sauer Kraut #180 for dinner
-DESCRIPTION:Bratwurst and Sauer Kraut #180 - https://github.com/bryanbr23/Recipes/issues/180
+UID:19233213-26c8-4a1d-952c-6dfcc875d28a
+DTSTAMP:20230315T071327
+DTSTART:20230317T184500
+DTEND:20230317T203000
+SUMMARY:Austrian Goulash #217 for dinner
+DESCRIPTION:Austrian Goulash #217 - https://github.com/bryanbr23/Recipes/issues/217
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:bc999c21-0b7b-4a06-b063-044da93219fd
-DTSTAMP:20230226T130553
-DTSTART:20230302T184500
-DTEND:20230302T203000
-SUMMARY:Moroccan Meatballs #163 and Mediterranean Vegetables #219 for dinner
-DESCRIPTION:Moroccan Meatballs #163 - https://github.com/bryanbr23/Recipes/issues/163
-Mediterranean Vegetables #219 - https://github.com/bryanbr23/Recipes/issues/219
+UID:7ccce14f-332b-4d2b-93ce-8ca7029f32aa
+DTSTAMP:20230315T071328
+DTSTART:20230318T184500
+DTEND:20230318T203000
+SUMMARY:Spaghetti Carbonara #135 for dinner
+DESCRIPTION:Spaghetti Carbonara #135 - https://github.com/bryanbr23/Recipes/issues/135
 SEQUENCE:0
 LOCATION:
 TRANSP:TRANSPARENT
