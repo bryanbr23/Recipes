@@ -1,5 +1,10 @@
 name: Push MealPlanner to Static Website
 
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#concurrency
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push: 
     branches:
@@ -7,6 +12,11 @@ on:
   workflow_dispatch:
   # schedule:
   #  - cron: '1 0 * * *'
+
+  project_card: 
+    types: [created, moved, converted, edited, deleted]
+  project_column:
+    types: [created, updated, moved, deleted]
 
 jobs:
   copy-file:
