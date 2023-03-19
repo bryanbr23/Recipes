@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 20-Mar 2023|[Austrian Goulash #217](https://github.com/bryanbr23/Recipes/issues/217)|
 |Tue 21-Mar 2023|[Spaghetti Carbonara #135](https://github.com/bryanbr23/Recipes/issues/135)|
 |Wed 22-Mar 2023|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
+|Thu 23-Mar 2023|[Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81](https://github.com/bryanbr23/Recipes/issues/81)|
 
 ## 🛒 Shopping List
 
@@ -49,4 +50,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves and Salt.
 
 
-_This shopping list was generated at 19-03-2023 21:50:35._
+_This shopping list was generated at 19-03-2023 21:51:06._
