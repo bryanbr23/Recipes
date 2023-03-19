@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Mon 20-Mar 2023|[Austrian Goulash #217](https://github.com/bryanbr23/Recipes/issues/217)|
 |Tue 21-Mar 2023|[Spaghetti Carbonara #135](https://github.com/bryanbr23/Recipes/issues/135)|
+|Wed 22-Mar 2023|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
 
 ## 🛒 Shopping List
 
@@ -25,13 +26,20 @@ This shopping list has been automatically generated with the ingredients from th
 |[C tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20tomato%20paste)|1/4|
 |[Chopped flat leaf parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20flat%20leaf%20parsley)|1 tbsp|
 |[Cider vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cider%20vinegar)|2 tsp|
+|[Cups dry lentils](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20dry%20lentils)|2|
+|[Cups low-sodium chicken broth (or vegetable broth)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20low-sodium%20chicken%20broth%20(or%20vegetable%20broth))|4|
 |[Eggs (1 eggs complete](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs%20(1%20eggs%20complete)|3|
 |[Grated parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Grated%20parmesan%20cheese)|50g-100g|
 |[Lard](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lard)|100g/3½oz|
 |[Medium onions chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions%20chopped)|1|
 |[Pancetta 50g per person](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pancetta%2050g%20per%20person)||
+|[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)|1/2 cup|
 |[Small ½ glass olive oil basically about 2-3 tablespoons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Small%20½%20glass%20olive%20oil%20basically%20about%202-3%20tablespoons)|1|
 |[Soured cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/Soured%20cream)||
+|[Teaspoon chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20chili%20powder)|1|
+|[Teaspoon cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20cumin)|1/2|
+|[Teaspoon garlic powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20garlic%20powder)|1|
+|[Teaspoon onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20onions%20powder)|1|
 |[Turns of the black peppers mill](https://www.sainsburys.co.uk/gol-ui/SearchResults/Turns%20of%20the%20black%20peppers%20mill)|12|
 
 ## 🏪 Pantry Ingredients
@@ -41,4 +49,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves and Salt.
 
 
-_This shopping list was generated at 19-03-2023 21:50:04._
+_This shopping list was generated at 19-03-2023 21:50:35._
