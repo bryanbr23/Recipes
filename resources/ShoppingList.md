@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 23-Mar 2023 - Sun 02-Apr 2023
+Sat 08-Apr 2023 - Tue 18-Apr 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,17 +8,14 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 23-Mar 2023|[Caesar Salad (The Last Caesar Salad Recipe You'll Ever Need Tammy) #81](https://github.com/bryanbr23/Recipes/issues/81)|
-|Fri 24-Mar 2023|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
+|Mon 10-Apr 2023|[Honey-Garlic Chicken Stir-fry #189](https://github.com/bryanbr23/Recipes/issues/189)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Cups dry lentils](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20dry%20lentils)|2|
-|[Cups low-sodium chicken broth (or vegetable broth)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20low-sodium%20chicken%20broth%20(or%20vegetable%20broth))|4|
-|[Salsa](https://www.sainsburys.co.uk/gol-ui/SearchResults/Salsa)|1/2 cup|
-|[Teaspoon chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20chili%20powder)|1|
-|[Teaspoon cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20cumin)|1/2|
-|[Teaspoon garlic powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20garlic%20powder)|1|
-|[Teaspoon onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20onions%20powder)|1|
+|[/2 tablespoons soy sauce (or certified gluten free tamari if you eat gluten free)](https://www.sainsburys.co.uk/gol-ui/SearchResults//2%20tablespoons%20soy%20sauce%20(or%20certified%20gluten%20free%20tamari%20if%20you%20eat%20gluten%20free))|1|
+|[Medium cloves garlic (diced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20cloves%20garlic%20(diced))|2|
+|[Tablespoon olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20olive%20oil)|1|
+|[Tablespoons honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20honey)|3|
+|[Teaspoons apple cider vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20apple%20cider%20vinegar)|2|
