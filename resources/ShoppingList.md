@@ -9,6 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Sat 15-Apr 2023|[Lentil Tacos (Instant Pot) #168](https://github.com/bryanbr23/Recipes/issues/168)|
+|Sun 16-Apr 2023|[Classic Italian Bolognese #57](https://github.com/bryanbr23/Recipes/issues/57)|
+|Mon 17-Apr 2023|[Nadiya Hussein Time to Eat Noodles #121](https://github.com/bryanbr23/Recipes/issues/121)|
 
 ## 🛒 Shopping List
 
