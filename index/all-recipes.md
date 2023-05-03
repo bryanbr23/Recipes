@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 190 all recipes recipes in the cookbook.
+There are 194 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -153,8 +153,8 @@ There are 190 all recipes recipes in the cookbook.
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
+||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
@@ -166,6 +166,7 @@ There are 190 all recipes recipes in the cookbook.
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
+||[225](https://github.com/bryanbr23/Recipes/issues/225)|[Stir-Fried Cocunut Curry Chicken with Bok Choy and Basil](https://github.com/bryanbr23/Recipes/issues/225)| |Chicken<br>Asian<br>Curry<br>Thai|
 ||[60](https://github.com/bryanbr23/Recipes/issues/60)|[Stuffed Red Peppers](https://github.com/bryanbr23/Recipes/issues/60)| |Vegetarian|
 ||[136](https://github.com/bryanbr23/Recipes/issues/136)|[Summer Couscous Salad](https://github.com/bryanbr23/Recipes/issues/136)| |Salad|
 ||[140](https://github.com/bryanbr23/Recipes/issues/140)|[Sun-Dried Tomato Dressing](https://github.com/bryanbr23/Recipes/issues/140)| |Salad Dressing|
@@ -189,4 +190,4 @@ There are 190 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 02-05-2023 01:38:17 using a custom Python script and GitHub Action._
+_This index was automatically generated at 03-05-2023 01:37:26 using a custom Python script and GitHub Action._
