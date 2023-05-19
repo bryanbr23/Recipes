@@ -1,6 +1,6 @@
 # Shopping List
 
-Thu 04-May 2023 - Sun 14-May 2023
+Fri 19-May 2023 - Mon 29-May 2023
 
 This shopping list has been automatically generated with the ingredients from the recipes found in the meal planner project.
 
@@ -8,24 +8,26 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
-|Thu 04-May 2023|[Classic Italian Bolognese #57](https://github.com/bryanbr23/Recipes/issues/57)|
-|Fri 05-May 2023|[Beef Barbacoa #167](https://github.com/bryanbr23/Recipes/issues/167)|
+|Sun 21-May 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
-|[Bay leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bay%20leaves)|2|
-|[Beef broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20broth)|½ cup|
-|[Can (4-ounces) green chilies](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20(4-ounces)%20green%20chilies)|1|
-|[Chipotles in adobo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chipotles%20in%20adobo)|2|
-|[Chopped fresh cilantro or parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chopped%20fresh%20cilantro%20or%20parsley)|1/4 cup|
-|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|4|
-|[Juices from 2 limes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juices%20from%202%20limes)||
-|[Large yellow onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20yellow%20onions)|1|
-|[Tablespoon dried oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20dried%20oregano)|1|
-|[Tablespoon ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20ground%20cumin)|1|
-|[Tablespoons apple cider vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20apple%20cider%20vinegar)|2|
-|[Teaspoon fresh ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20fresh%20ground%20black%20peppers)|¾|
-|[To 4 pounds chuck roast](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%204%20pounds%20chuck%20roast)|3|
-|[½ teaspoons salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20teaspoons%20salt)|1|
+|[1 cup all-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20cup%20all-purpose%20flour)|1 Cup all-purpose flour cup|
+|[1 tbsp parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20parsley)|1 Tbsp parsley, chopped + more to garnish tbsp|
+|[2 tbsp olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20olive%20oil)|2 Tbsp olive oil tbsp|
+|[3 tbsp capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20capers)|3 Tbsp capers, divided tbsp|
+|[4 tbsp unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/4%20tbsp%20unsalted%20butter)|4 Tbsp unsalted butter, cold + cubed tbsp|
+|[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)|2 tsp|
+|[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)|2|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
+|[Freshly ground black peppers + more to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers%20+%20more%20to%20taste)|2 tsp|
+|[Kosher salt + more to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt%20+%20more%20to%20taste)|2 tsp|
+|[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
+|[Linguini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguini)|½ lb|
+|[Oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oregano)|1 tsp|
+|[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
+|[¼ cup lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/¼%20cup%20lemon%20juice)|¼ Cup lemon juice cup|
+|[½ cup chicken stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20cup%20chicken%20stock)|½ Cup chicken stock, preferably homemade cup|
+|[½ cup dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20cup%20dry%20white%20wine)|½ Cup dry white wine cup|
