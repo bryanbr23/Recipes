@@ -11,7 +11,8 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 22-May 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
 |Tue 23-May 2023|[Charro Beans (Cowboy Beans) #221](https://github.com/bryanbr23/Recipes/issues/221)|
 |Wed 24-May 2023|[Fettuccine With Sausage and Kale #154](https://github.com/bryanbr23/Recipes/issues/154)|
-|Fri 26-May 2023|[Lemon Garlic Parmesan Shrimp Pasta #101](https://github.com/bryanbr23/Recipes/issues/101)|
+|Thu 25-May 2023|[Lemon Garlic Parmesan Shrimp Pasta #101](https://github.com/bryanbr23/Recipes/issues/101)|
+|Fri 26-May 2023|[Mushroom Risotto #220](https://github.com/bryanbr23/Recipes/issues/220)|
 
 ## 🛒 Shopping List
 
@@ -23,6 +24,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[2 tbsp olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20olive%20oil)|2 Tbsp olive oil tbsp|
 |[3 tbsp capers](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20capers)|3 Tbsp capers, divided tbsp|
 |[4 tbsp unsalted butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/4%20tbsp%20unsalted%20butter)|4 Tbsp unsalted butter, cold + cubed tbsp|
+|[Arborio rice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Arborio%20rice)||
 |[Bacon strips](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bacon%20strips)|5|
 |[Basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Basil)|2 tsp|
 |[Beef franks](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20franks)|4|
@@ -42,6 +44,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
 |[Linguini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguini)|½ lb|
 |[Medium white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20white%20onions)|1/2|
+|[Mushrooms](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mushrooms)|500g|
 |[Of kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20kosher%20salt)|2 tsp|
 |[Oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oregano)|1 tsp|
 |[Ounces linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20linguine%20pasta)|8|
@@ -69,4 +72,4 @@ The following items have not been added to the shopping list as they are like in
 Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 19-05-2023 10:12:02._
+_This shopping list was generated at 19-05-2023 10:12:20._
