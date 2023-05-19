@@ -10,11 +10,14 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Mon 22-May 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
 |Tue 23-May 2023|[Charro Beans (Cowboy Beans) #221](https://github.com/bryanbr23/Recipes/issues/221)|
+|Wed 24-May 2023|[Fettuccine With Sausage and Kale #154](https://github.com/bryanbr23/Recipes/issues/154)|
+|Fri 26-May 2023|[Lemon Garlic Parmesan Shrimp Pasta #101](https://github.com/bryanbr23/Recipes/issues/101)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[/4 pound large shrimp](https://www.sainsburys.co.uk/gol-ui/SearchResults//4%20pound%20large%20shrimp)|1|
 |[1 cup all-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20cup%20all-purpose%20flour)|1 Cup all-purpose flour cup|
 |[1 tbsp parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20parsley)|1 Tbsp parsley, chopped + more to garnish tbsp|
 |[2 tbsp olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20olive%20oil)|2 Tbsp olive oil tbsp|
@@ -26,20 +29,35 @@ This shopping list has been automatically generated with the ingredients from th
 |[Bunch of cilantro](https://www.sainsburys.co.uk/gol-ui/SearchResults/Bunch%20of%20cilantro)|1/2|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)|2|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
+|[Cloves garlic minced](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20minced)|4|
+|[Cups baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20baby%20spinach)|4|
 |[Cups of water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20of%20water)|12|
+|[Dried eggs fettuccine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20eggs%20fettuccine)|1/2 lb|
+|[Finely grated pecorino romano (1/2 cup) plus additional for serving](https://www.sainsburys.co.uk/gol-ui/SearchResults/Finely%20grated%20pecorino%20romano%20(1/2%20cup)%20plus%20additional%20for%20serving)|1 oz|
 |[Freshly ground black peppers + more to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers%20+%20more%20to%20taste)|2 tsp|
 |[Ham](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ham)|6 oz|
+|[Hot turkey or pork sausage](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hot%20turkey%20or%20pork%20sausage)|1 lb|
+|[Kale](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kale)|1/2 lb|
 |[Kosher salt + more to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt%20+%20more%20to%20taste)|2 tsp|
 |[Lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Lemon)|1|
 |[Linguini](https://www.sainsburys.co.uk/gol-ui/SearchResults/Linguini)|½ lb|
 |[Medium white onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20white%20onions)|1/2|
 |[Of kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Of%20kosher%20salt)|2 tsp|
 |[Oregano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Oregano)|1 tsp|
+|[Ounces linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20linguine%20pasta)|8|
+|[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|1/2 cup|
 |[Pinto beans](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pinto%20beans)|1 lb|
 |[Pork or beef chorizo](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pork%20or%20beef%20chorizo)|12 oz|
+|[Reduced-sodium chicken broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Reduced-sodium%20chicken%20broth)|2/3 cup|
 |[Roma tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Roma%20tomatoes)|10 oz|
 |[Serrano or jalapeño peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serrano%20or%20jalapeño%20peppers)|1|
 |[Shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Shallots)|1|
+|[Tablespoon lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20lemon%20juice)|1|
+|[Tablespoons butter](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20butter)|6|
+|[Tablespoons olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20olive%20oil)|3 + 2|
+|[Tablespoons parsley chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20parsley%20chopped)|2|
+|[Teaspoon italian seasoning](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20italian%20seasoning)|1|
+|[Teaspoon red peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20red%20peppers%20flakes)|1|
 |[¼ cup lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/¼%20cup%20lemon%20juice)|¼ Cup lemon juice cup|
 |[½ cup chicken stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20cup%20chicken%20stock)|½ Cup chicken stock, preferably homemade cup|
 |[½ cup dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/½%20cup%20dry%20white%20wine)|½ Cup dry white wine cup|
@@ -48,7 +66,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-G, a, r, l, i, c,  , c, l, o, v, e and s.
+Garlic cloves and Seasoning.
 
 
-_This shopping list was generated at 19-05-2023 10:11:40._
+_This shopping list was generated at 19-05-2023 10:12:02._
