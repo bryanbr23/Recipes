@@ -9,8 +9,8 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 12-Jun 2023|[The Best Thai Panang Chicken Curry #223](https://github.com/bryanbr23/Recipes/issues/223)|
-|Tue 13-Jun 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
-|Thu 15-Jun 2023|[Dal Makahni #186](https://github.com/bryanbr23/Recipes/issues/186)|
+|Tue 13-Jun 2023|[Dal Makahni #186](https://github.com/bryanbr23/Recipes/issues/186)|
+|Thu 15-Jun 2023|[Babish Chicken Picatta #194](https://github.com/bryanbr23/Recipes/issues/194)|
 
 ## 🛒 Shopping List
 
@@ -32,7 +32,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Carrots)|1|
 |[Cauliflower](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cauliflower)|1|
 |[Chicken breast](https://www.sainsburys.co.uk/gol-ui/SearchResults/Chicken%20breast)|2|
-|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1 + 4|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
 |[Cups (480 ml) low-sodium vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20(480%20ml)%20low-sodium%20vegetable%20broth)|2|
 |[For serving: basmati or jasmine rice and indian flatbread such as roti](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20serving:%20basmati%20or%20jasmine%20rice%20and%20indian%20flatbread%20such%20as%20roti)||
 |[Freshly cracked black peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20cracked%20black%20peppers%20to%20taste)||
