@@ -9,6 +9,7 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 19-Jun 2023|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
+|Tue 20-Jun 2023|[Sicilian Noodles w/Sardines  #56](https://github.com/bryanbr23/Recipes/issues/56)|
 
 ## 🛒 Shopping List
 
