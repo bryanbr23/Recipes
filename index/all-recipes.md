@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 198 all recipes recipes in the cookbook.
+There are 199 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -13,6 +13,7 @@ There are 198 all recipes recipes in the cookbook.
 ||[35](https://github.com/bryanbr23/Recipes/issues/35)|[Asian Broiled Salmon](https://github.com/bryanbr23/Recipes/issues/35)| |Fish|
 | B||||
 ||[99](https://github.com/bryanbr23/Recipes/issues/99)|[BAKED PARMESAN GARLIC CHICKEN](https://github.com/bryanbr23/Recipes/issues/99)| |Chicken|
+||[236](https://github.com/bryanbr23/Recipes/issues/236)|[BBQ Dry Rub](https://github.com/bryanbr23/Recipes/issues/236)| |BBQ|
 ||[194](https://github.com/bryanbr23/Recipes/issues/194)|[Babish Chicken Picatta](https://github.com/bryanbr23/Recipes/issues/194)| |Chicken|
 ||[36](https://github.com/bryanbr23/Recipes/issues/36)|[Bacon Wrapped Chicken](https://github.com/bryanbr23/Recipes/issues/36)| |Chicken|
 ||[38](https://github.com/bryanbr23/Recipes/issues/38)|[Bacon Wrapped Pork ](https://github.com/bryanbr23/Recipes/issues/38)| |Pork|
@@ -65,8 +66,8 @@ There are 198 all recipes recipes in the cookbook.
 ||[190](https://github.com/bryanbr23/Recipes/issues/190)|[Cornbread](https://github.com/bryanbr23/Recipes/issues/190)| |Bread|
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
 ||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
+||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -193,4 +194,4 @@ There are 198 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 01-07-2023 02:06:12 using a custom Python script and GitHub Action._
+_This index was automatically generated at 02-07-2023 02:06:35 using a custom Python script and GitHub Action._
