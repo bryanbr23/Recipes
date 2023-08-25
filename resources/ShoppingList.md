@@ -14,6 +14,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 28-Aug 2023|[Quinoa Salad #177](https://github.com/bryanbr23/Recipes/issues/177)|
 |Tue 29-Aug 2023|[Shrimp and Pasta #179](https://github.com/bryanbr23/Recipes/issues/179)|
 |Wed 30-Aug 2023|[Beef Barbacoa - Rick Bayless #229](https://github.com/bryanbr23/Recipes/issues/229)|
+|Thu 31-Aug 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
 
 ## 🛒 Shopping List
 
@@ -78,4 +79,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt and Tomato puree.
 
 
-_This shopping list was generated at 25-08-2023 07:04:13._
+_This shopping list was generated at 25-08-2023 07:05:03._
