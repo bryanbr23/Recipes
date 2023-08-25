@@ -10,6 +10,7 @@ This shopping list has been automatically generated with the ingredients from th
 |----|----|
 |Fri 25-Aug 2023|[Asian Broiled Salmon #35](https://github.com/bryanbr23/Recipes/issues/35)|
 |Sat 26-Aug 2023|[Red Beet Risotto #141](https://github.com/bryanbr23/Recipes/issues/141)|
+|Sun 27-Aug 2023|[Blackened steak salad #66](https://github.com/bryanbr23/Recipes/issues/66)|
 
 ## 🛒 Shopping List
 
