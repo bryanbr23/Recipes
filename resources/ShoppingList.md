@@ -78,4 +78,4 @@ The following items have not been added to the shopping list as they are like in
 Dried basil, Dried oregano, Garlic cloves, Olive oil, Salt and Tomato puree.
 
 
-_This shopping list was generated at 25-08-2023 07:03:46._
+_This shopping list was generated at 25-08-2023 07:04:13._
