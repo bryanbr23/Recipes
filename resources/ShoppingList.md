@@ -11,20 +11,24 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 13-Sep 2023|[Asian Broiled Salmon #35](https://github.com/bryanbr23/Recipes/issues/35)|
 |Thu 14-Sep 2023|[Butter Chicken Curry #195](https://github.com/bryanbr23/Recipes/issues/195)|
 |Fri 15-Sep 2023|[Lemon Garlic Parmesan Shrimp Pasta #101](https://github.com/bryanbr23/Recipes/issues/101)|
+|Sat 16-Sep 2023|[Hamburgers #244](https://github.com/bryanbr23/Recipes/issues/244)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[/4 pound large shrimp](https://www.sainsburys.co.uk/gol-ui/SearchResults//4%20pound%20large%20shrimp)|1|
+|[1 tbsp montreal spice](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20montreal%20spice)|1 Tbsp Montreal Spice tbsp|
 |[2 tbsp dark sesame oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20dark%20sesame%20oil)|2 Tbsp dark sesame oil tbsp|
 |[2 tbsp freshly squeezed lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20freshly%20squeezed%20lemon%20juice)|2 Tbsp freshly squeezed lemon juice tbsp|
 |[2 tbsp minced fresh chives](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20minced%20fresh%20chives)|2 Tbsp minced fresh chives tbsp|
 |[2 tbsp oyster sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20oyster%20sauce)|2 Tbsp oyster sauce tbsp|
 |[2 tbsp thin soy sauce](https://www.sainsburys.co.uk/gol-ui/SearchResults/2%20tbsp%20thin%20soy%20sauce)|2 Tbsp thin soy sauce tbsp|
+|[Brioche hamburger buns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Brioche%20hamburger%20buns)||
 |[Cloves garlic minced](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic%20minced)|4|
 |[Cups baby spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20baby%20spinach)|4|
 |[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)|½ tsp|
+|[Hamburger meat](https://www.sainsburys.co.uk/gol-ui/SearchResults/Hamburger%20meat)|1 kg|
 |[Ounces linguine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20linguine%20pasta)|8|
 |[Parmesan cheese](https://www.sainsburys.co.uk/gol-ui/SearchResults/Parmesan%20cheese)|1/2 cup|
 |[Tablespoon lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20lemon%20juice)|1|
@@ -43,4 +47,4 @@ The following items have not been added to the shopping list as they are like in
 S, e, a, s, o, n, i, n and g.
 
 
-_This shopping list was generated at 13-09-2023 07:42:17._
+_This shopping list was generated at 13-09-2023 07:44:27._
