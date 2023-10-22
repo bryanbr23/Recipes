@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 201 all recipes recipes in the cookbook.
+There are 203 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -109,6 +109,7 @@ There are 201 all recipes recipes in the cookbook.
 ||[58](https://github.com/bryanbr23/Recipes/issues/58)|[Kale Pasta](https://github.com/bryanbr23/Recipes/issues/58)| |Pasta|
 ||[64](https://github.com/bryanbr23/Recipes/issues/64)|[Keto Low Carb Chili ](https://github.com/bryanbr23/Recipes/issues/64)| |Beef|
 ||[61](https://github.com/bryanbr23/Recipes/issues/61)|[Keto Taco Casserole](https://github.com/bryanbr23/Recipes/issues/61)| |Turkey|
+||[249](https://github.com/bryanbr23/Recipes/issues/249)|[Keto Thai Green Chicken Curry](https://github.com/bryanbr23/Recipes/issues/249)| |Chicken<br>keto|
 | L||||
 ||[101](https://github.com/bryanbr23/Recipes/issues/101)|[Lemon Garlic Parmesan Shrimp Pasta](https://github.com/bryanbr23/Recipes/issues/101)| |Shrimp<br>Fish|
 ||[119](https://github.com/bryanbr23/Recipes/issues/119)|[Lemonade Concentrate](https://github.com/bryanbr23/Recipes/issues/119)| |Drink|
@@ -195,4 +196,4 @@ There are 201 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 21-10-2023 01:18:11 using a custom Python script and GitHub Action._
+_This index was automatically generated at 22-10-2023 01:25:13 using a custom Python script and GitHub Action._
