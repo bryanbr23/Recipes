@@ -9,24 +9,32 @@ This shopping list has been automatically generated with the ingredients from th
 |📅 Date| 🍽️ Meal|
 |----|----|
 |Mon 06-Nov 2023|[Shrimp Scampi Babish #132](https://github.com/bryanbr23/Recipes/issues/132)|
+|Wed 08-Nov 2023|[Pork Carnitas - Mexican Slow-Cooker #143](https://github.com/bryanbr23/Recipes/issues/143)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
 |[+ 1 tbsp kosher salt (+ more to taste)](https://www.sainsburys.co.uk/gol-ui/SearchResults/+%201%20tbsp%20kosher%20salt%20(+%20more%20to%20taste))|1 tsp|
+|[/ 4 lb pork shoulder (pork butt)](https://www.sainsburys.co.uk/gol-ui/SearchResults//%204%20lb%20pork%20shoulder%20(pork%20butt))|2 kg|
 |[1 tbsp fresh marjoram](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20fresh%20marjoram)|1 Tbsp fresh marjoram, chopped tbsp|
 |[3 tbsp olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20olive%20oil)|3 Tbsp olive oil tbsp|
 |[3 tbsp parsley](https://www.sainsburys.co.uk/gol-ui/SearchResults/3%20tbsp%20parsley)|3 Tbsp parsley, chopped tbsp|
 |[8 tbsp butter (1 stick)](https://www.sainsburys.co.uk/gol-ui/SearchResults/8%20tbsp%20butter%20(1%20stick))|8 Tbsp butter (1 stick), divided tbsp|
 |[Black peppercorns](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppercorns)|½ tsp|
+|[Black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Black%20peppers)|1 tsp|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|4|
 |[Crushed red peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Crushed%20red%20peppers%20flakes)|½ tsp|
 |[Dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dry%20white%20wine)|1 cup|
 |[Fresh fettuccine pasta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20fettuccine%20pasta)|½ lb|
 |[Fresh shrimp](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20shrimp)|1 lb|
 |[Fresh tarragon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20tarragon)|2 tsp|
+|[Ground cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ground%20cumin)|2 tsp|
+|[Jalapeno](https://www.sainsburys.co.uk/gol-ui/SearchResults/Jalapeno)|1|
 |[Juice  of 2 lemons](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20%20of%202%20lemons)||
+|[Juice from orange (2 oranges)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Juice%20from%20orange%20(2%20oranges))|3/4 cup|
 |[Large shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Large%20shallots)|1|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Panko bread crumbs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Panko%20bread%20crumbs)|½ cup|
 |[To taste freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20taste%20freshly%20ground%20black%20peppers)||
 |[Zest of 1 lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/Zest%20of%201%20lemon)||
@@ -35,7 +43,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Baking soda, Bay leaf and Garlic cloves.
+Baking soda, Bay leaf, Dried oregano, Garlic cloves, Olive oil and Salt.
 
 
-_This shopping list was generated at 05-11-2023 17:17:34._
+_This shopping list was generated at 05-11-2023 17:19:04._
