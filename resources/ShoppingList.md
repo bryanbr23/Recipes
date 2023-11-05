@@ -12,6 +12,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 07-Nov 2023|[Aeplermagron (Macaroni) #178](https://github.com/bryanbr23/Recipes/issues/178)|
 |Wed 08-Nov 2023|[Surinamese Hot Chicken #250](https://github.com/bryanbr23/Recipes/issues/250)|
 |Thu 09-Nov 2023|[Pork Carnitas - Mexican Slow-Cooker #143](https://github.com/bryanbr23/Recipes/issues/143)|
+|Fri 10-Nov 2023|[Vegan Red Lentil Curry #193](https://github.com/bryanbr23/Recipes/issues/193)|
 
 ## 🛒 Shopping List
 
@@ -70,4 +71,4 @@ The following items have not been added to the shopping list as they are like in
 Baking soda, Bay leaf, Dried oregano, Garlic cloves, Light soy sauce, Olive oil and Salt.
 
 
-_This shopping list was generated at 05-11-2023 17:21:46._
+_This shopping list was generated at 05-11-2023 17:22:31._
