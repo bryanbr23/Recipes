@@ -12,24 +12,31 @@ This shopping list has been automatically generated with the ingredients from th
 |Tue 14-Nov 2023|[Dal Makahni #186](https://github.com/bryanbr23/Recipes/issues/186)|
 |Wed 15-Nov 2023|[Marry Me Chicken #245](https://github.com/bryanbr23/Recipes/issues/245)|
 |Thu 16-Nov 2023|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
+|Fri 17-Nov 2023|[Spaghetti Bolognese #247](https://github.com/bryanbr23/Recipes/issues/247)|
 
 ## 🛒 Shopping List
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[(125 ml) dry red wine (sub water or beef broth/stock)](https://www.sainsburys.co.uk/gol-ui/SearchResults/(125%20ml)%20dry%20red%20wine%20(sub%20water%20or%20beef%20broth/stock))|1/2 cup|
 |[(180-190g) red lentils](https://www.sainsburys.co.uk/gol-ui/SearchResults/(180-190g)%20red%20lentils)|1 cup|
 |[(1½ ounces) grated parmesan](https://www.sainsburys.co.uk/gol-ui/SearchResults/(1½%20ounces)%20grated%20parmesan)|½cup|
 |[(2.4 ounces/67 grams) sliced sun-dried tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/(2.4%20ounces/67%20grams)%20sliced%20sun-dried%20tomatoes)|⅓cup|
 |[(~8g) fresh cilantro](https://www.sainsburys.co.uk/gol-ui/SearchResults/(~8g)%20fresh%20cilantro)|1/2 cup|
+|[/ 500g beef mince (ground beef) or half pork](https://www.sainsburys.co.uk/gol-ui/SearchResults//%20500g%20beef%20mince%20(ground%20beef)%20or%20half%20pork)|1 lb|
 |[3.5-ounce/400 ml) can full-fat coconut milk](https://www.sainsburys.co.uk/gol-ui/SearchResults/3.5-ounce/400%20ml)%20can%20full-fat%20coconut%20milk)|1|
 |[4-ounce / 400g) can crushed tomatoes (or half of a 28-ounce can)](https://www.sainsburys.co.uk/gol-ui/SearchResults/4-ounce%20/%20400g)%20can%20crushed%20tomatoes%20(or%20half%20of%20a%2028-ounce%20can))|1|
 |[A small lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/A%20small%20lemon)|1/2|
 |[All-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/All-purpose%20flour)|¼ cup|
+|[Beef bouillon cubes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Beef%20bouillon%20cubes)|2|
 |[Boneless skinless chicken thighs cut into strips](https://www.sainsburys.co.uk/gol-ui/SearchResults/Boneless%20skinless%20chicken%20thighs%20cut%20into%20strips)|1 kg|
 |[C chopped dill](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20chopped%20dill)|1/2|
+|[Can crushed tomato (or tomato passata)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Can%20crushed%20tomato%20(or%20tomato%20passata))|800g / 28 oz|
 |[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
 |[Creamed spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creamed%20spinach)|800g|
 |[Cups (480 ml) low-sodium vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20(480%20ml)%20low-sodium%20vegetable%20broth)|2|
+|[Dried bay leaves](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20bay%20leaves)|2|
+|[Dried thyme or oregano)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Dried%20thyme%20or%20oregano))|2 sprigs fresh thyme (or 1/2 tsp|
 |[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
 |[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|400g|
 |[Filo dough](https://www.sainsburys.co.uk/gol-ui/SearchResults/Filo%20dough)||
@@ -47,6 +54,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Maggi bouillon cubes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maggi%20bouillon%20cubes)|2|
 |[Medium onions chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions%20chopped)|1|
 |[Neutral oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Neutral%20oil)|2 tbsp|
+|[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
 |[Red-peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red-peppers%20flakes)||
 |[Sambal oelek to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sambal%20oelek%20to%20taste)||
 |[Serrano peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serrano%20peppers)|1-2|
@@ -66,16 +74,18 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoons curry powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20curry%20powder)|2|
 |[To ¾cup heavy cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20¾cup%20heavy%20cream)|½|
 |[Tomato (sliced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20(sliced))|1|
+|[Tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20paste)|2 tbsp|
 |[Vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vinegar)|1 tbsp|
 |[Warm water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Warm%20water)|1/2 cup|
 |[White onions quartered](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20onions%20quartered)|1|
+|[White sugar](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20sugar)|2 tsp|
 |[▢kosher salt or sea salt to taste (i use about 1 tsp kosher salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/▢kosher%20salt%20or%20sea%20salt%20to%20taste%20(i%20use%20about%201%20tsp%20kosher%20salt)||
 
 ## 🏪 Pantry Ingredients
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Cumin, Garlic cloves, Light soy sauce and Seasoning.
+Cumin, Garlic cloves, Light soy sauce, Olive oil, Seasoning and Worcestershire sauce.
 
 
-_This shopping list was generated at 12-11-2023 21:48:14._
+_This shopping list was generated at 12-11-2023 21:48:37._
