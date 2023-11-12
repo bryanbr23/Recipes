@@ -13,6 +13,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Wed 15-Nov 2023|[Marry Me Chicken #245](https://github.com/bryanbr23/Recipes/issues/245)|
 |Thu 16-Nov 2023|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
 |Fri 17-Nov 2023|[Spaghetti Bolognese #247](https://github.com/bryanbr23/Recipes/issues/247)|
+|Sat 18-Nov 2023|[Rigatoni all'Amatriciana (Rigatoni With Guanciale and Tomatoes) #175](https://github.com/bryanbr23/Recipes/issues/175)|
 
 ## 🛒 Shopping List
 
@@ -43,8 +44,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[For serving: basmati or jasmine rice and indian flatbread such as roti](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20serving:%20basmati%20or%20jasmine%20rice%20and%20indian%20flatbread%20such%20as%20roti)||
 |[Fresh basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20basil)||
 |[Freshly cracked black peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20cracked%20black%20peppers%20to%20taste)||
+|[Freshly ground black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20ground%20black%20peppers)||
 |[Galangal powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Galangal%20powder)|2 tsp|
 |[Garlic cloves crushed](https://www.sainsburys.co.uk/gol-ui/SearchResults/Garlic%20cloves%20crushed)|4|
+|[Glass dry white wine](https://www.sainsburys.co.uk/gol-ui/SearchResults/Glass%20dry%20white%20wine)|½|
 |[Inch piece of fresh ginger](https://www.sainsburys.co.uk/gol-ui/SearchResults/Inch%20piece%20of%20fresh%20ginger)|2|
 |[Ketchup](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ketchup)|1 tbsp|
 |[Kosher salt (such as diamond crystal) and black peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Kosher%20salt%20(such%20as%20diamond%20crystal)%20and%20black%20peppers)||
@@ -55,11 +58,16 @@ This shopping list has been automatically generated with the ingredients from th
 |[Medium onions chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions%20chopped)|1|
 |[Neutral oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Neutral%20oil)|2 tbsp|
 |[Onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Onions)|1|
+|[Ounces | 100 grams grated pecorino romano](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20|%20100%20grams%20grated%20pecorino%20romano)|3½|
+|[Ounces | 120 grams guanciale (cured pork jowl)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Ounces%20|%20120%20grams%20guanciale%20(cured%20pork%20jowl))|4|
+|[Pounds | 600 grams rigatoni (or bucatini)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Pounds%20|%20600%20grams%20rigatoni%20(or%20bucatini))|1¼|
 |[Red-peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red-peppers%20flakes)||
 |[Sambal oelek to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sambal%20oelek%20to%20taste)||
+|[San marzano tomatoes](https://www.sainsburys.co.uk/gol-ui/SearchResults/San%20marzano%20tomatoes)|6-7|
 |[Serrano peppers](https://www.sainsburys.co.uk/gol-ui/SearchResults/Serrano%20peppers)|1-2|
 |[Sprigs celery leaves roughly chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sprigs%20celery%20leaves%20roughly%20chopped)|3|
 |[Sweet soy sauce kecap manis](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20soy%20sauce%20kecap%20manis)|2 tbsp|
+|[Tablespoon extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20extra-virgin%20olive%20oil)|1|
 |[Tablespoon minced fresh turmeric](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20minced%20fresh%20turmeric)|1|
 |[Tablespoon refined or virgin coconut oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20refined%20or%20virgin%20coconut%20oil)|1|
 |[Tablespoon tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20tomato%20paste)|1|
@@ -85,7 +93,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Cumin, Garlic cloves, Light soy sauce, Olive oil, Seasoning and Worcestershire sauce.
+Cumin, Garlic cloves, Light soy sauce, Olive oil, Salt, Seasoning and Worcestershire sauce.
 
 
-_This shopping list was generated at 12-11-2023 21:48:37._
+_This shopping list was generated at 12-11-2023 21:49:03._
