@@ -11,6 +11,7 @@ This shopping list has been automatically generated with the ingredients from th
 |Mon 13-Nov 2023|[Surinamese Hot Chicken #250](https://github.com/bryanbr23/Recipes/issues/250)|
 |Tue 14-Nov 2023|[Dal Makahni #186](https://github.com/bryanbr23/Recipes/issues/186)|
 |Wed 15-Nov 2023|[Marry Me Chicken #245](https://github.com/bryanbr23/Recipes/issues/245)|
+|Thu 16-Nov 2023|[Spinach Pie #75](https://github.com/bryanbr23/Recipes/issues/75)|
 
 ## 🛒 Shopping List
 
@@ -25,8 +26,13 @@ This shopping list has been automatically generated with the ingredients from th
 |[A small lemon](https://www.sainsburys.co.uk/gol-ui/SearchResults/A%20small%20lemon)|1/2|
 |[All-purpose flour](https://www.sainsburys.co.uk/gol-ui/SearchResults/All-purpose%20flour)|¼ cup|
 |[Boneless skinless chicken thighs cut into strips](https://www.sainsburys.co.uk/gol-ui/SearchResults/Boneless%20skinless%20chicken%20thighs%20cut%20into%20strips)|1 kg|
-|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|4|
+|[C chopped dill](https://www.sainsburys.co.uk/gol-ui/SearchResults/C%20chopped%20dill)|1/2|
+|[Cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cloves%20garlic)|1|
+|[Creamed spinach](https://www.sainsburys.co.uk/gol-ui/SearchResults/Creamed%20spinach)|800g|
 |[Cups (480 ml) low-sodium vegetable broth](https://www.sainsburys.co.uk/gol-ui/SearchResults/Cups%20(480%20ml)%20low-sodium%20vegetable%20broth)|2|
+|[Eggs](https://www.sainsburys.co.uk/gol-ui/SearchResults/Eggs)|1|
+|[Feta](https://www.sainsburys.co.uk/gol-ui/SearchResults/Feta)|400g|
+|[Filo dough](https://www.sainsburys.co.uk/gol-ui/SearchResults/Filo%20dough)||
 |[For serving: basmati or jasmine rice and indian flatbread such as roti](https://www.sainsburys.co.uk/gol-ui/SearchResults/For%20serving:%20basmati%20or%20jasmine%20rice%20and%20indian%20flatbread%20such%20as%20roti)||
 |[Fresh basil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Fresh%20basil)||
 |[Freshly cracked black peppers to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Freshly%20cracked%20black%20peppers%20to%20taste)||
@@ -39,6 +45,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Low-sodium chicken stock](https://www.sainsburys.co.uk/gol-ui/SearchResults/Low-sodium%20chicken%20stock)|1 cup|
 |[Madam jeanette chili peppers (i used a habanero)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Madam%20jeanette%20chili%20peppers%20(i%20used%20a%20habanero))|1|
 |[Maggi bouillon cubes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Maggi%20bouillon%20cubes)|2|
+|[Medium onions chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20onions%20chopped)|1|
 |[Neutral oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Neutral%20oil)|2 tbsp|
 |[Red-peppers flakes](https://www.sainsburys.co.uk/gol-ui/SearchResults/Red-peppers%20flakes)||
 |[Sambal oelek to taste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sambal%20oelek%20to%20taste)||
@@ -58,6 +65,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoon indian red chili powder (if you only have regular chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20indian%20red%20chili%20powder%20(if%20you%20only%20have%20regular%20chili%20powder)|1/2|
 |[Teaspoons curry powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20curry%20powder)|2|
 |[To ¾cup heavy cream](https://www.sainsburys.co.uk/gol-ui/SearchResults/To%20¾cup%20heavy%20cream)|½|
+|[Tomato (sliced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20(sliced))|1|
 |[Vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vinegar)|1 tbsp|
 |[Warm water](https://www.sainsburys.co.uk/gol-ui/SearchResults/Warm%20water)|1/2 cup|
 |[White onions quartered](https://www.sainsburys.co.uk/gol-ui/SearchResults/White%20onions%20quartered)|1|
@@ -67,7 +75,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 The following items have not been added to the shopping list as they are like in the pantry already.
 
-Garlic cloves and Light soy sauce.
+Cumin, Garlic cloves, Light soy sauce and Seasoning.
 
 
-_This shopping list was generated at 12-11-2023 21:47:53._
+_This shopping list was generated at 12-11-2023 21:48:14._
