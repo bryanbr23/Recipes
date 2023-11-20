@@ -38,4 +38,4 @@ There are 22 pasta recipes in the cookbook.
 | V||||
 ||[33](https://github.com/bryanbr23/Recipes/issues/33)|[Vegan Mac and Cheese Mix (from Miyoko's Kitchen)](https://github.com/bryanbr23/Recipes/issues/33)| |Pasta|
 
-_This index was automatically generated at 19-11-2023 01:30:51 using a custom Python script and GitHub Action._
+_This index was automatically generated at 20-11-2023 01:26:33 using a custom Python script and GitHub Action._
