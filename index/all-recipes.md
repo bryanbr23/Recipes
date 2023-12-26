@@ -196,4 +196,4 @@ There are 203 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 25-12-2023 01:24:55 using a custom Python script and GitHub Action._
+_This index was automatically generated at 26-12-2023 01:21:58 using a custom Python script and GitHub Action._
