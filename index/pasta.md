@@ -1,6 +1,6 @@
 # Pasta
 
-There are 22 pasta recipes in the cookbook.
+There are 25 pasta recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -21,6 +21,8 @@ There are 22 pasta recipes in the cookbook.
 ||[107](https://github.com/bryanbr23/Recipes/issues/107)|[Pasta Fagioli](https://github.com/bryanbr23/Recipes/issues/107)| |Pasta|
 ||[27](https://github.com/bryanbr23/Recipes/issues/27)|[Pasta Mediterranen](https://github.com/bryanbr23/Recipes/issues/27)| |Pasta|
 ||[222](https://github.com/bryanbr23/Recipes/issues/222)|[Pasta and Peas with Red Sauce](https://github.com/bryanbr23/Recipes/issues/222)| |Pasta|
+||[254](https://github.com/bryanbr23/Recipes/issues/254)|[Pasta with Scallops and Lemon Butter](https://github.com/bryanbr23/Recipes/issues/254)| |Pasta|
+||[253](https://github.com/bryanbr23/Recipes/issues/253)|[Pasta with Smoked Salmon and Dill Sauce](https://github.com/bryanbr23/Recipes/issues/253)| |Pasta|
 ||[26](https://github.com/bryanbr23/Recipes/issues/26)|[Penne Arrabiatta (2 people)](https://github.com/bryanbr23/Recipes/issues/26)| |Pasta|
 ||[28](https://github.com/bryanbr23/Recipes/issues/28)|[Penne ala Vodka](https://github.com/bryanbr23/Recipes/issues/28)| |Pasta|
 | R||||
@@ -34,8 +36,9 @@ There are 22 pasta recipes in the cookbook.
 ||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
 | T||||
+||[255](https://github.com/bryanbr23/Recipes/issues/255)|[Tagliatelle with Sausage, Basil and Sun-Dried Tomatoes](https://github.com/bryanbr23/Recipes/issues/255)| |Pasta|
 ||[89](https://github.com/bryanbr23/Recipes/issues/89)|[Tuna Pasta with Tomato and Olives](https://github.com/bryanbr23/Recipes/issues/89)| |Pasta|
 | V||||
 ||[33](https://github.com/bryanbr23/Recipes/issues/33)|[Vegan Mac and Cheese Mix (from Miyoko's Kitchen)](https://github.com/bryanbr23/Recipes/issues/33)| |Pasta|
 
-_This index was automatically generated at 11-02-2024 01:25:21 using a custom Python script and GitHub Action._
+_This index was automatically generated at 12-02-2024 01:19:19 using a custom Python script and GitHub Action._
