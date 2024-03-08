@@ -8,6 +8,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 |📅 Date| 🍽️ Meal|
 |----|----|
+|Sat 09-Mar 2024|[Honey-Garlic Chicken Stir-fry #189](https://github.com/bryanbr23/Recipes/issues/189)|
 |Sun 10-Mar 2024|[Minestrone Soup #150](https://github.com/bryanbr23/Recipes/issues/150)|
 |Mon 11-Mar 2024|[Thai Sausage Recipe #233](https://github.com/bryanbr23/Recipes/issues/233)|
 |Tue 12-Mar 2024|[Surinamese Hot Chicken #250](https://github.com/bryanbr23/Recipes/issues/250)|
@@ -20,6 +21,7 @@ This shopping list has been automatically generated with the ingredients from th
 
 | 🍌 Ingredient| ⚖️ Measurement|
 |----------|-----------|
+|[/2 tablespoons soy sauce (or certified gluten free tamari if you eat gluten free)](https://www.sainsburys.co.uk/gol-ui/SearchResults//2%20tablespoons%20soy%20sauce%20(or%20certified%20gluten%20free%20tamari%20if%20you%20eat%20gluten%20free))|1|
 |[0g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/0g))|2|
 |[1 1/2 tbsp shallots](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%201/2%20tbsp%20shallots)|1 1/2 Tbsp Shallots tbsp|
 |[1 tbsp cilantro (coriander)](https://www.sainsburys.co.uk/gol-ui/SearchResults/1%20tbsp%20cilantro%20(coriander))|1 Tbsp Cilantro (Coriander) tbsp|
@@ -63,6 +65,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Medium carrots](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots)|2|
 |[Medium carrots (10 ounces; 275g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20carrots%20(10%20ounces;%20275g))|4|
 |[Medium cloves garlic](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20cloves%20garlic)|3|
+|[Medium cloves garlic (diced)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20cloves%20garlic%20(diced))|2|
 |[Medium ribs celery](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20ribs%20celery)|2|
 |[Medium yellow onions](https://www.sainsburys.co.uk/gol-ui/SearchResults/Medium%20yellow%20onions)|1|
 |[Mu shu wrappers or tortillas](https://www.sainsburys.co.uk/gol-ui/SearchResults/Mu%20shu%20wrappers%20or%20tortillas)|12|
@@ -85,8 +88,10 @@ This shopping list has been automatically generated with the ingredients from th
 |[Sprigs celery leaves roughly chopped](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sprigs%20celery%20leaves%20roughly%20chopped)|3|
 |[Sprigs thyme](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sprigs%20thyme)|4|
 |[Sweet soy sauce (also called kecap manis)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Sweet%20soy%20sauce%20(also%20called%20kecap%20manis))|2 tbsp|
+|[Tablespoon olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoon%20olive%20oil)|1|
 |[Tablespoons (30ml) vegetable oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20(30ml)%20vegetable%20oil)|2|
 |[Tablespoons extra-virgin olive oil](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20extra-virgin%20olive%20oil)|4|
+|[Tablespoons honey](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20honey)|3|
 |[Tablespoons tomato paste (2.5 ounces; 75g)](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tablespoons%20tomato%20paste%20(2.5%20ounces;%2075g))|3|
 |[Teaspoon chili powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20chili%20powder)|1|
 |[Teaspoon cumin](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20cumin)|1/2|
@@ -95,6 +100,7 @@ This shopping list has been automatically generated with the ingredients from th
 |[Teaspoon fine sea salt](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20fine%20sea%20salt)|1|
 |[Teaspoon garlic powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20garlic%20powder)|1|
 |[Teaspoon onions powder](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoon%20onions%20powder)|1|
+|[Teaspoons apple cider vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20apple%20cider%20vinegar)|2|
 |[Teaspoons lemon juice](https://www.sainsburys.co.uk/gol-ui/SearchResults/Teaspoons%20lemon%20juice)|2|
 |[Tomato paste](https://www.sainsburys.co.uk/gol-ui/SearchResults/Tomato%20paste)|¼ cup|
 |[Vinegar](https://www.sainsburys.co.uk/gol-ui/SearchResults/Vinegar)|1 tbsp|
@@ -109,4 +115,4 @@ The following items have not been added to the shopping list as they are like in
 L, i, g, h, t,  , s, o, y,  , s, a, u, c and e.
 
 
-_This shopping list was generated at 08-03-2024 09:55:41._
+_This shopping list was generated at 08-03-2024 09:56:05._
