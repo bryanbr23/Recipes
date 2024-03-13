@@ -11,4 +11,4 @@ There are 3 bbq recipes in the cookbook.
 | S||||
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
 
-_This index was automatically generated at 12-03-2024 01:17:58 using a custom Python script and GitHub Action._
+_This index was automatically generated at 13-03-2024 01:20:16 using a custom Python script and GitHub Action._
