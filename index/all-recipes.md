@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 207 all recipes recipes in the cookbook.
+There are 210 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -67,8 +67,8 @@ There are 207 all recipes recipes in the cookbook.
 ||[190](https://github.com/bryanbr23/Recipes/issues/190)|[Cornbread](https://github.com/bryanbr23/Recipes/issues/190)| |Bread|
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
+||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -118,10 +118,12 @@ There are 207 all recipes recipes in the cookbook.
 | M||||
 ||[79](https://github.com/bryanbr23/Recipes/issues/79)|[Marmalade Haddock](https://github.com/bryanbr23/Recipes/issues/79)| |Fish|
 ||[55](https://github.com/bryanbr23/Recipes/issues/55)|[Martina McBride's Creamy Chicken Tortilla Soup](https://github.com/bryanbr23/Recipes/issues/55)| |Chicken|
+||[259](https://github.com/bryanbr23/Recipes/issues/259)|[Meatballs (America's Test Kitchen)](https://github.com/bryanbr23/Recipes/issues/259)| |Meat|
 ||[90](https://github.com/bryanbr23/Recipes/issues/90)|[Memphis Rib Rub ](https://github.com/bryanbr23/Recipes/issues/90)| |Pork|
 ||[41](https://github.com/bryanbr23/Recipes/issues/41)|[Mexican Chicken and Zucchini ](https://github.com/bryanbr23/Recipes/issues/41)| |Chicken|
 ||[88](https://github.com/bryanbr23/Recipes/issues/88)|[Mexican Shredded Beef (and Tacos)](https://github.com/bryanbr23/Recipes/issues/88)| |Beef|
 ||[163](https://github.com/bryanbr23/Recipes/issues/163)|[Moroccan Meatballs](https://github.com/bryanbr23/Recipes/issues/163)| |Lamb|
+||[258](https://github.com/bryanbr23/Recipes/issues/258)|[Moroccan Vegetables](https://github.com/bryanbr23/Recipes/issues/258)| |Vegetarian<br>Vegetable|
 ||[188](https://github.com/bryanbr23/Recipes/issues/188)|[Mu Shu Pork](https://github.com/bryanbr23/Recipes/issues/188)| |Pork<br>Asian|
 ||[117](https://github.com/bryanbr23/Recipes/issues/117)|[Mushroom and Asparagus Risotto Recipe](https://github.com/bryanbr23/Recipes/issues/117)| |Vegetarian|
 | N||||
@@ -161,8 +163,8 @@ There are 207 all recipes recipes in the cookbook.
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
+||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
@@ -200,4 +202,4 @@ There are 207 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 10-10-2024 00:32:52 using a custom Python script and GitHub Action._
+_This index was automatically generated at 11-10-2024 00:32:18 using a custom Python script and GitHub Action._
