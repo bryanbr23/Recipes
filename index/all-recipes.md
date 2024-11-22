@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 212 all recipes recipes in the cookbook.
+There are 214 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -69,8 +69,8 @@ There are 212 all recipes recipes in the cookbook.
 ||[190](https://github.com/bryanbr23/Recipes/issues/190)|[Cornbread](https://github.com/bryanbr23/Recipes/issues/190)| |Bread|
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
+||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -132,6 +132,7 @@ There are 212 all recipes recipes in the cookbook.
 ||[93](https://github.com/bryanbr23/Recipes/issues/93)|[Nadia Hussain Time to Eat Red-Beet Noodles](https://github.com/bryanbr23/Recipes/issues/93)| |Vegetarian|
 ||[121](https://github.com/bryanbr23/Recipes/issues/121)|[Nadiya Hussein Time to Eat Noodles](https://github.com/bryanbr23/Recipes/issues/121)| |Pasta<br>Noodles|
 ||[134](https://github.com/bryanbr23/Recipes/issues/134)|[Nduja fennel pastries](https://github.com/bryanbr23/Recipes/issues/134)| |Bread|
+||[261](https://github.com/bryanbr23/Recipes/issues/261)|[Nigerian Potatoes](https://github.com/bryanbr23/Recipes/issues/261)| |Vegetarian<br>Vegetable|
 ||[84](https://github.com/bryanbr23/Recipes/issues/84)|[Nutty Nutmeg Granola](https://github.com/bryanbr23/Recipes/issues/84)| |Breakfast|
 | O||||
 ||[201](https://github.com/bryanbr23/Recipes/issues/201)|[One-Pot Vegetable Biryani](https://github.com/bryanbr23/Recipes/issues/201)| |Vegetarian|
@@ -165,8 +166,8 @@ There are 212 all recipes recipes in the cookbook.
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
 ||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
+||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
@@ -204,4 +205,4 @@ There are 212 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 21-11-2024 00:33:50 using a custom Python script and GitHub Action._
+_This index was automatically generated at 22-11-2024 00:34:43 using a custom Python script and GitHub Action._
