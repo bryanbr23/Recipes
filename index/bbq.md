@@ -1,6 +1,6 @@
 # BBQ
 
-There are 3 bbq recipes in the cookbook.
+There are 4 bbq recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -10,5 +10,7 @@ There are 3 bbq recipes in the cookbook.
 ||[4](https://github.com/bryanbr23/Recipes/issues/4)|[Pork BBQ Ribs](https://github.com/bryanbr23/Recipes/issues/4)| |Pork<br>BBQ<br>Marinade 24 hour|
 | S||||
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
+| T||||
+||[269](https://github.com/bryanbr23/Recipes/issues/269)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/269)| |BBQ<br>Shrimp<br>Thai|
 
-_This index was automatically generated at 16-04-2025 00:37:58 using a custom Python script and GitHub Action._
+_This index was automatically generated at 17-04-2025 00:36:26 using a custom Python script and GitHub Action._
