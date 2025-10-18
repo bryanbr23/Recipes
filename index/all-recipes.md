@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 223 all recipes recipes in the cookbook.
+There are 224 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -71,8 +71,8 @@ There are 223 all recipes recipes in the cookbook.
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[278](https://github.com/bryanbr23/Recipes/issues/278)|[Creamy Lemon-Miso Dressing](https://github.com/bryanbr23/Recipes/issues/278)| |Salad Dressing|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
 ||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
+||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -164,14 +164,15 @@ There are 223 all recipes recipes in the cookbook.
 ||[182](https://github.com/bryanbr23/Recipes/issues/182)|[Roasted Red Pepper Pasta](https://github.com/bryanbr23/Recipes/issues/182)| |Italian<br>Vegetarian|
 | S||||
 ||[228](https://github.com/bryanbr23/Recipes/issues/228)|[Salsa Negra](https://github.com/bryanbr23/Recipes/issues/228)| |Salsa|
+||[281](https://github.com/bryanbr23/Recipes/issues/281)|[Sautéed Shrimp With Lemon-Caper Dressing](https://github.com/bryanbr23/Recipes/issues/281)| |Shrimp|
 ||[208](https://github.com/bryanbr23/Recipes/issues/208)|[Schoki-Pfeffer-Bomben](https://github.com/bryanbr23/Recipes/issues/208)| |Cookies|
 ||[54](https://github.com/bryanbr23/Recipes/issues/54)|[Schuhbecks Salat-Dressing für alle Blattsalate](https://github.com/bryanbr23/Recipes/issues/54)| |Salad|
 ||[80](https://github.com/bryanbr23/Recipes/issues/80)|[Seasoned Potatoes](https://github.com/bryanbr23/Recipes/issues/80)| |Vegetarian|
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
 ||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
+||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
 ||[267](https://github.com/bryanbr23/Recipes/issues/267)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/267)| |Shrimp<br>Mexican|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
@@ -211,4 +212,4 @@ There are 223 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 17-10-2025 00:36:50 using a custom Python script and GitHub Action._
+_This index was automatically generated at 18-10-2025 00:35:36 using a custom Python script and GitHub Action._
