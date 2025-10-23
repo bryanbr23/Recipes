@@ -32,8 +32,8 @@ There are 25 pasta recipes in the cookbook.
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[1](https://github.com/bryanbr23/Recipes/issues/1)|[Spaghetti Bolognese](https://github.com/bryanbr23/Recipes/issues/1)| |Italian<br>Pasta<br>Beef<br>Favorite|
-||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
+||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[32](https://github.com/bryanbr23/Recipes/issues/32)|[Stamp of Approval Spaghetti Sauce](https://github.com/bryanbr23/Recipes/issues/32)| |Pasta|
 | T||||
 ||[255](https://github.com/bryanbr23/Recipes/issues/255)|[Tagliatelle with Sausage, Basil and Sun-Dried Tomatoes](https://github.com/bryanbr23/Recipes/issues/255)| |Pasta|
@@ -41,4 +41,4 @@ There are 25 pasta recipes in the cookbook.
 | V||||
 ||[33](https://github.com/bryanbr23/Recipes/issues/33)|[Vegan Mac and Cheese Mix (from Miyoko's Kitchen)](https://github.com/bryanbr23/Recipes/issues/33)| |Pasta|
 
-_This index was automatically generated at 22-10-2025 00:40:16 using a custom Python script and GitHub Action._
+_This index was automatically generated at 23-10-2025 00:39:06 using a custom Python script and GitHub Action._
