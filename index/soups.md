@@ -11,4 +11,4 @@ There are 5 soups recipes in the cookbook.
 ||[160](https://github.com/bryanbr23/Recipes/issues/160)|[Chili - Instant Pot](https://github.com/bryanbr23/Recipes/issues/160)| |Soup<br>Instant Pot|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 
-_This index was automatically generated at 18-11-2025 00:39:00 using a custom Python script and GitHub Action._
+_This index was automatically generated at 19-11-2025 00:40:00 using a custom Python script and GitHub Action._
