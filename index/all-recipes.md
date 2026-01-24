@@ -71,8 +71,8 @@ There are 224 all recipes recipes in the cookbook.
 ||[114](https://github.com/bryanbr23/Recipes/issues/114)|[Creamy Homemade Baked Mac and Cheese](https://github.com/bryanbr23/Recipes/issues/114)| |Vegetarian|
 ||[278](https://github.com/bryanbr23/Recipes/issues/278)|[Creamy Lemon-Miso Dressing](https://github.com/bryanbr23/Recipes/issues/278)| |Salad Dressing|
 ||[210](https://github.com/bryanbr23/Recipes/issues/210)|[Crescent Cookies](https://github.com/bryanbr23/Recipes/issues/210)| |Cookies|
-||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[207](https://github.com/bryanbr23/Recipes/issues/207)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/207)| |Cookies|
+||[73](https://github.com/bryanbr23/Recipes/issues/73)|[Crystal Sticks](https://github.com/bryanbr23/Recipes/issues/73)| |Dessert|
 ||[159](https://github.com/bryanbr23/Recipes/issues/159)|[Curry Lentil Soup - Instant Pot](https://github.com/bryanbr23/Recipes/issues/159)| |Soup<br>Instant Pot|
 | D||||
 ||[85](https://github.com/bryanbr23/Recipes/issues/85)|[Doritos Powder](https://github.com/bryanbr23/Recipes/issues/85)| |Snack|
@@ -212,4 +212,4 @@ There are 224 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 23-01-2026 00:42:54 using a custom Python script and GitHub Action._
+_This index was automatically generated at 24-01-2026 00:42:54 using a custom Python script and GitHub Action._
