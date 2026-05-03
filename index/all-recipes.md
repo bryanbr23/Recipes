@@ -50,8 +50,8 @@ There are 235 all recipes recipes in the cookbook.
 ||[40](https://github.com/bryanbr23/Recipes/issues/40)|[Chicken Metaxa](https://github.com/bryanbr23/Recipes/issues/40)| |Chicken|
 ||[296](https://github.com/bryanbr23/Recipes/issues/296)|[Chicken Morocco](https://github.com/bryanbr23/Recipes/issues/296)| |Chicken|
 ||[67](https://github.com/bryanbr23/Recipes/issues/67)|[Chicken Piccata](https://github.com/bryanbr23/Recipes/issues/67)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken Piccata' width='200'/>|Chicken|
-||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
 ||[213](https://github.com/bryanbr23/Recipes/issues/213)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/213)| |Soup|
+||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
 ||[116](https://github.com/bryanbr23/Recipes/issues/116)|[Chicken Satay with Peanut Sauce](https://github.com/bryanbr23/Recipes/issues/116)| |Chicken|
 ||[42](https://github.com/bryanbr23/Recipes/issues/42)|[Chicken Schwarma](https://github.com/bryanbr23/Recipes/issues/42)| |Chicken|
 ||[43](https://github.com/bryanbr23/Recipes/issues/43)|[Chicken Schwarma 2](https://github.com/bryanbr23/Recipes/issues/43)| |Chicken|
@@ -176,9 +176,9 @@ There are 235 all recipes recipes in the cookbook.
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[267](https://github.com/bryanbr23/Recipes/issues/267)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/267)| |Shrimp<br>Mexican|
 ||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
+||[267](https://github.com/bryanbr23/Recipes/issues/267)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/267)| |Shrimp<br>Mexican|
 ||[293](https://github.com/bryanbr23/Recipes/issues/293)|[Shrimp with Herb Butter](https://github.com/bryanbr23/Recipes/issues/293)| |Shrimp|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
 ||[63](https://github.com/bryanbr23/Recipes/issues/63)|[Slow Cooker Pork Tenderloin](https://github.com/bryanbr23/Recipes/issues/63)| |Pork|
@@ -201,8 +201,8 @@ There are 235 all recipes recipes in the cookbook.
 ||[200](https://github.com/bryanbr23/Recipes/issues/200)|[Teriyaki Tofu Salad with Glass Noodles](https://github.com/bryanbr23/Recipes/issues/200)| |Salad|
 ||[204](https://github.com/bryanbr23/Recipes/issues/204)|[Teriyaki and Hoisin Crispy Chicken](https://github.com/bryanbr23/Recipes/issues/204)| |Chicken<br>Asian|
 ||[233](https://github.com/bryanbr23/Recipes/issues/233)|[Thai Sausage Recipe](https://github.com/bryanbr23/Recipes/issues/233)| |Pork<br>Sausage|
-||[294](https://github.com/bryanbr23/Recipes/issues/294)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/294)| |Shrimp|
 ||[269](https://github.com/bryanbr23/Recipes/issues/269)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/269)| |BBQ<br>Shrimp<br>Thai|
+||[294](https://github.com/bryanbr23/Recipes/issues/294)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/294)| |Shrimp|
 ||[223](https://github.com/bryanbr23/Recipes/issues/223)|[The Best Thai Panang Chicken Curry](https://github.com/bryanbr23/Recipes/issues/223)| |Curry<br>Thai|
 ||[89](https://github.com/bryanbr23/Recipes/issues/89)|[Tuna Pasta with Tomato and Olives](https://github.com/bryanbr23/Recipes/issues/89)| |Pasta|
 | V||||
@@ -220,4 +220,4 @@ There are 235 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 02-05-2026 01:05:51 using a custom Python script and GitHub Action._
+_This index was automatically generated at 03-05-2026 01:11:37 using a custom Python script and GitHub Action._
