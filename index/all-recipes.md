@@ -201,8 +201,8 @@ There are 235 all recipes recipes in the cookbook.
 ||[200](https://github.com/bryanbr23/Recipes/issues/200)|[Teriyaki Tofu Salad with Glass Noodles](https://github.com/bryanbr23/Recipes/issues/200)| |Salad|
 ||[204](https://github.com/bryanbr23/Recipes/issues/204)|[Teriyaki and Hoisin Crispy Chicken](https://github.com/bryanbr23/Recipes/issues/204)| |Chicken<br>Asian|
 ||[233](https://github.com/bryanbr23/Recipes/issues/233)|[Thai Sausage Recipe](https://github.com/bryanbr23/Recipes/issues/233)| |Pork<br>Sausage|
-||[294](https://github.com/bryanbr23/Recipes/issues/294)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/294)| |Shrimp|
 ||[269](https://github.com/bryanbr23/Recipes/issues/269)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/269)| |BBQ<br>Shrimp<br>Thai|
+||[294](https://github.com/bryanbr23/Recipes/issues/294)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/294)| |Shrimp|
 ||[223](https://github.com/bryanbr23/Recipes/issues/223)|[The Best Thai Panang Chicken Curry](https://github.com/bryanbr23/Recipes/issues/223)| |Curry<br>Thai|
 ||[89](https://github.com/bryanbr23/Recipes/issues/89)|[Tuna Pasta with Tomato and Olives](https://github.com/bryanbr23/Recipes/issues/89)| |Pasta|
 | V||||
@@ -220,4 +220,4 @@ There are 235 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 02-06-2026 01:24:31 using a custom Python script and GitHub Action._
+_This index was automatically generated at 03-06-2026 01:29:38 using a custom Python script and GitHub Action._
