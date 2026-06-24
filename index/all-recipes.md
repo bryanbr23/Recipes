@@ -50,8 +50,8 @@ There are 238 all recipes recipes in the cookbook.
 ||[40](https://github.com/bryanbr23/Recipes/issues/40)|[Chicken Metaxa](https://github.com/bryanbr23/Recipes/issues/40)| |Chicken|
 ||[296](https://github.com/bryanbr23/Recipes/issues/296)|[Chicken Morocco](https://github.com/bryanbr23/Recipes/issues/296)| |Chicken|
 ||[67](https://github.com/bryanbr23/Recipes/issues/67)|[Chicken Piccata](https://github.com/bryanbr23/Recipes/issues/67)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken Piccata' width='200'/>|Chicken|
-||[213](https://github.com/bryanbr23/Recipes/issues/213)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/213)| |Soup|
 ||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
+||[213](https://github.com/bryanbr23/Recipes/issues/213)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/213)| |Soup|
 ||[116](https://github.com/bryanbr23/Recipes/issues/116)|[Chicken Satay with Peanut Sauce](https://github.com/bryanbr23/Recipes/issues/116)| |Chicken|
 ||[42](https://github.com/bryanbr23/Recipes/issues/42)|[Chicken Schwarma](https://github.com/bryanbr23/Recipes/issues/42)| |Chicken|
 ||[43](https://github.com/bryanbr23/Recipes/issues/43)|[Chicken Schwarma 2](https://github.com/bryanbr23/Recipes/issues/43)| |Chicken|
@@ -188,8 +188,8 @@ There are 238 all recipes recipes in the cookbook.
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
 ||[1](https://github.com/bryanbr23/Recipes/issues/1)|[Spaghetti Bolognese](https://github.com/bryanbr23/Recipes/issues/1)| |Italian<br>Pasta<br>Beef<br>Favorite|
-||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
+||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
 ||[297](https://github.com/bryanbr23/Recipes/issues/297)|[Spareribs with Jerk Sauce](https://github.com/bryanbr23/Recipes/issues/297)| |Pork<br>BBQ|
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
@@ -223,4 +223,4 @@ There are 238 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 23-06-2026 01:15:36 using a custom Python script and GitHub Action._
+_This index was automatically generated at 24-06-2026 01:13:07 using a custom Python script and GitHub Action._
