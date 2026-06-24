@@ -13,4 +13,4 @@ There are 6 soups recipes in the cookbook.
 | G||||
 ||[298](https://github.com/bryanbr23/Recipes/issues/298)|[Gazpacho](https://github.com/bryanbr23/Recipes/issues/298)| |Soup|
 
-_This index was automatically generated at 23-06-2026 01:16:27 using a custom Python script and GitHub Action._
+_This index was automatically generated at 24-06-2026 01:13:57 using a custom Python script and GitHub Action._
