@@ -14,4 +14,4 @@ There are 5 bbq recipes in the cookbook.
 | T||||
 ||[269](https://github.com/bryanbr23/Recipes/issues/269)|[Thai-High Barbecued Shrimp](https://github.com/bryanbr23/Recipes/issues/269)| |BBQ<br>Shrimp<br>Thai|
 
-_This index was automatically generated at 28-08-2026 11:13:06 using a custom Python script and GitHub Action._
+_This index was automatically generated at 29-08-2026 06:58:00 using a custom Python script and GitHub Action._
