@@ -1,6 +1,6 @@
 # All Recipes
 
-There are 236 all recipes recipes in the cookbook.
+There are 237 all recipes recipes in the cookbook.
 
 | |Number|Recipe|Picture|Labels|
 |-|------|------|-------|------|
@@ -20,6 +20,7 @@ There are 236 all recipes recipes in the cookbook.
 ||[36](https://github.com/bryanbr23/Recipes/issues/36)|[Bacon Wrapped Chicken](https://github.com/bryanbr23/Recipes/issues/36)| |Chicken|
 ||[38](https://github.com/bryanbr23/Recipes/issues/38)|[Bacon Wrapped Pork ](https://github.com/bryanbr23/Recipes/issues/38)| |Pork|
 ||[95](https://github.com/bryanbr23/Recipes/issues/95)|[Banana Cake](https://github.com/bryanbr23/Recipes/issues/95)| |Vegetarian|
+||[313](https://github.com/bryanbr23/Recipes/issues/313)|[Banana-Pecan Muffins](https://github.com/bryanbr23/Recipes/issues/313)| |Breakfast|
 ||[167](https://github.com/bryanbr23/Recipes/issues/167)|[Beef Barbacoa](https://github.com/bryanbr23/Recipes/issues/167)| |Beef<br>Slow-Cooker<br>Mexican|
 ||[229](https://github.com/bryanbr23/Recipes/issues/229)|[Beef Barbacoa - Rick Bayless](https://github.com/bryanbr23/Recipes/issues/229)| |Beef|
 ||[166](https://github.com/bryanbr23/Recipes/issues/166)|[Beef Cheeks in Wine Sauce - Slow Cooker](https://github.com/bryanbr23/Recipes/issues/166)| |Beef<br>Slow-Cooker|
@@ -50,8 +51,8 @@ There are 236 all recipes recipes in the cookbook.
 ||[40](https://github.com/bryanbr23/Recipes/issues/40)|[Chicken Metaxa](https://github.com/bryanbr23/Recipes/issues/40)| |Chicken|
 ||[296](https://github.com/bryanbr23/Recipes/issues/296)|[Chicken Morocco](https://github.com/bryanbr23/Recipes/issues/296)| |Chicken|
 ||[67](https://github.com/bryanbr23/Recipes/issues/67)|[Chicken Piccata](https://github.com/bryanbr23/Recipes/issues/67)|<img src='https://raw.githubusercontent.com/jcallaghan/The-Cookbook/main/recipes/images/chicken-piccata-1.jpg' alt='Chicken Piccata' width='200'/>|Chicken|
-||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
 ||[213](https://github.com/bryanbr23/Recipes/issues/213)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/213)| |Soup|
+||[149](https://github.com/bryanbr23/Recipes/issues/149)|[Chicken Pot Pie Soup](https://github.com/bryanbr23/Recipes/issues/149)| |Soup|
 ||[116](https://github.com/bryanbr23/Recipes/issues/116)|[Chicken Satay with Peanut Sauce](https://github.com/bryanbr23/Recipes/issues/116)| |Chicken|
 ||[42](https://github.com/bryanbr23/Recipes/issues/42)|[Chicken Schwarma](https://github.com/bryanbr23/Recipes/issues/42)| |Chicken|
 ||[43](https://github.com/bryanbr23/Recipes/issues/43)|[Chicken Schwarma 2](https://github.com/bryanbr23/Recipes/issues/43)| |Chicken|
@@ -180,8 +181,8 @@ There are 236 all recipes recipes in the cookbook.
 ||[111](https://github.com/bryanbr23/Recipes/issues/111)|[Shaking Beef – Vietnamese](https://github.com/bryanbr23/Recipes/issues/111)| |Beef|
 ||[212](https://github.com/bryanbr23/Recipes/issues/212)|[Shrimp Cocktail](https://github.com/bryanbr23/Recipes/issues/212)| |Shrimp|
 ||[132](https://github.com/bryanbr23/Recipes/issues/132)|[Shrimp Scampi Babish](https://github.com/bryanbr23/Recipes/issues/132)| |Shrimp|
-||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[267](https://github.com/bryanbr23/Recipes/issues/267)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/267)| |Shrimp<br>Mexican|
+||[109](https://github.com/bryanbr23/Recipes/issues/109)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/109)| |Fish|
 ||[5](https://github.com/bryanbr23/Recipes/issues/5)|[Shrimp Tacos](https://github.com/bryanbr23/Recipes/issues/5)| |Shrimp|
 ||[293](https://github.com/bryanbr23/Recipes/issues/293)|[Shrimp with Herb Butter](https://github.com/bryanbr23/Recipes/issues/293)| |Shrimp|
 ||[56](https://github.com/bryanbr23/Recipes/issues/56)|[Sicilian Noodles w/Sardines ](https://github.com/bryanbr23/Recipes/issues/56)| |Pasta|
@@ -189,8 +190,8 @@ There are 236 all recipes recipes in the cookbook.
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
-||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
+||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[297](https://github.com/bryanbr23/Recipes/issues/297)|[Spareribs with Jerk Sauce](https://github.com/bryanbr23/Recipes/issues/297)| |Pork<br>BBQ|
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
@@ -224,4 +225,4 @@ There are 236 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 07-10-2026 05:42:42 using a custom Python script and GitHub Action._
+_This index was automatically generated at 08-10-2026 05:51:38 using a custom Python script and GitHub Action._
