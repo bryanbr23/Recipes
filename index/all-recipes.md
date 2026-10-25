@@ -190,8 +190,8 @@ There are 237 all recipes recipes in the cookbook.
 ||[137](https://github.com/bryanbr23/Recipes/issues/137)|[Smokey Tomato Sauce](https://github.com/bryanbr23/Recipes/issues/137)| |Sauce|
 ||[31](https://github.com/bryanbr23/Recipes/issues/31)|[Somerset’s Mushroom Bolognese](https://github.com/bryanbr23/Recipes/issues/31)| |Pasta|
 ||[123](https://github.com/bryanbr23/Recipes/issues/123)|[Southern Pulled Pork BBQ Sauce](https://github.com/bryanbr23/Recipes/issues/123)| |BBQ<br>Sauce|
-||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[135](https://github.com/bryanbr23/Recipes/issues/135)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/135)| |Italian<br>Pasta|
+||[30](https://github.com/bryanbr23/Recipes/issues/30)|[Spaghetti Carbonara](https://github.com/bryanbr23/Recipes/issues/30)| |Pasta|
 ||[297](https://github.com/bryanbr23/Recipes/issues/297)|[Spareribs with Jerk Sauce](https://github.com/bryanbr23/Recipes/issues/297)| |Pork<br>BBQ|
 ||[106](https://github.com/bryanbr23/Recipes/issues/106)|[Spatchcock Turkey Recipe](https://github.com/bryanbr23/Recipes/issues/106)| |Turkey|
 ||[75](https://github.com/bryanbr23/Recipes/issues/75)|[Spinach Pie](https://github.com/bryanbr23/Recipes/issues/75)| |Vegetarian|
@@ -225,4 +225,4 @@ There are 237 all recipes recipes in the cookbook.
 | Z||||
 ||[151](https://github.com/bryanbr23/Recipes/issues/151)|[Zesty Carrots](https://github.com/bryanbr23/Recipes/issues/151)| |Side Dish|
 
-_This index was automatically generated at 24-10-2026 04:25:11 using a custom Python script and GitHub Action._
+_This index was automatically generated at 25-10-2026 04:27:59 using a custom Python script and GitHub Action._
